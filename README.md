@@ -13,10 +13,10 @@ With that said, though, DIY psychiatry has been a lot more fun and effective tha
 + [Part 4: postmortem and future changes](#part-4-postmortem-and-future-changes)
 
 
-## Quick but important aside for alcoholics
+## Quick but important aside for alcohol users
 I used to rely on alcohol to medicate anxiety. This is a terrible strategy.
 
-**If this is you, I have a page [here](alcohol-substitutes.md)** with some (in my opinion) much healthier and more effective alternatives that reduce OCD, may be neuroprotective, and mitigate suicide risk.
+**If this is you, [I have a whole page](alcohol-substitutes.md) with some (in my opinion) much healthier and more effective alternatives that reduce OCD, may be neuroprotective, and mitigate suicide risk.** There are many safe OTC supplements that are shown to reduce addictive behavior, repair certain types of alcohol-induced brain damage, and provide comparable anxiolytic effects. I highly recommend reading about some of them before accepting alcohol as a solution to any problems or using it recreationally.
 
 
 ## Part 0: background reading on neurotransmitters and metabolism
@@ -49,7 +49,7 @@ Here's a short list of Wikipedia and pubmed articles I found to be most helpful 
       + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
       + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that deactivate MAO enzymes
       + [St John's Wort](https://en.wikipedia.org/wiki/Hypericum_perforatum), which may or may not be a MAOI ([this article cites some studies I haven't looked at](https://www.apsf.org/article/st-johns-wort-charge-refuted-by-herbalist/); I thought it inhibited dopamine beta-hydroxylase but maybe that's wrong)
-      +
+      + **TODO**
 
 
 ## Part 1: defining the requirements
