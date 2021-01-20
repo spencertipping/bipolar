@@ -25,7 +25,7 @@ All of this is available over the counter; I don't use prescription medications 
   + Stimulants and brain circulation
     + 10g tyrosine
     + 12-18g yerba mate tea
-    + 6g ginkgo biloba + 6g bacopa monnieri + 6g gotu kola + 6g mint + 1g ginger root tea
+    + 7g ginkgo biloba + 7g bacopa monnieri + 4g gotu kola + 5g mint + 8g ginger root tea (totally ad-hoc thing, see below)
   + Methylation
     + 15mg-20mg methylfolate
     + 2.5mg methyl-B12
@@ -48,7 +48,9 @@ All of this is available over the counter; I don't use prescription medications 
 
 **Note:** I suspect some of my dosages are above what's necessary. I've gotten great results, but I haven't tuned any of this for efficiency yet and it's a bit of a work in progress. If you know of things I should improve, please let me know.
 
-I also usually eat eggs and fish for breakfast, usually four eggs and 4-6oz of tuna or salmon. The choline isn't a problem, although eggs and fish keep me awake and I can't supplement alpha-GPC, citicholine, or ALA without getting really depressed.
+**Also note:** I really don't understand how riboflavin and methylation are related. It was in an article somewhere and I noticed that I can take less methylfolate when I take riboflavin too, but otherwise I don't get how it works.
+
+I also usually eat eggs and fish for breakfast, usually four eggs and 4-6oz of tuna or salmon. Dietary choline isn't a problem, although eggs and fish keep me awake if I eat them at night and I can't supplement alpha-GPC, citicholine, or ALA without getting really depressed.
 
 I still have minor mood and energy cycling throughout the year, but nothing like before. Sometimes I'll try to course-correct; here are some of the options I'll use (usually a subset, not all of them):
 
@@ -80,3 +82,17 @@ Second, methylation and, more broadly, antioxidants. The Hcy->Met pathway consum
 Methylation gets a bit more complicated because methionine isn't the only thing homocysteine is used for. This is where NAC comes into the picture.
 
 **TODO:** explain the business with glutathione synthesis
+
+
+## How this regimen came about
+**TODO:** there's a whole timeline to this that explains some of the trial and error
+
+
+### The woo-woo gingko herbal tea stuff
+Hardly the most important thing on the list, but I should mention where this comes from and what it's about.
+
+There are various studies that suggest ginkgo and bacopa are good for brain circulation, help memory, and are neuroprotective. I started at the recommended dose and then multiplied it by 10 because I like to live dangerously (let's be honest: when "ginkgo biloba overdose" turns up nothing scary, that's just because people haven't tried hard enough).
+
+Gotu kola I have no idea about. It's a traditional herb and I'm a whore for ancient nootropics, so that's about all there is to it.
+
+The ratios aren't special. I filled a mason jar equally by volume with ginkgo, bacopa, gotu kola, and mint leaves, then put some ginger on top. Joyce took that mixture and calculated precise gram amounts so she could make it in bulk, since she drinks it too.

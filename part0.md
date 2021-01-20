@@ -9,7 +9,7 @@ If you don't have time to read everything, here's (in my opinion) the most impor
 + [Lithium aspartate](https://en.wikipedia.org/wiki/Lithium_aspartate), an OTC form of lithium that, IMO, is safe and everyone should take at 5mg/day or more (I take 40mg/day)
 + [Glutathione](https://en.wikipedia.org/wiki/Glutathione): "the master antioxidant" (made from glutamate + glycine + cysteine), limited by cysteine availability
 + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine): the amino acid precursor to dopamine, melanin, and thyroid hormone -- I take 10g/day, which is a lot
-+ [This page about alcohol, GABA, and NMDA](alcohol-substitution.md), which covers what I think should be common cultural knowledge regarding GABA-ergic drugs like alcohol
++ [This page about alcohol, GABA, and NMDA](alcohol-substitution.md), which covers what I think should be common cultural knowledge about (and alternatives to) GABA-ergic drugs like alcohol and benzos
 
 
 ## Lithium: trace metal for neurotransmitter regulation
@@ -28,14 +28,32 @@ It's often prescribed in much higher doses for bipolar and other disorders; pres
 
 These side effects both went away. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
 
+Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
+
 
 ## Methylation: general metabolism and oxidative stress
 + [Methylation](https://en.wikipedia.org/wiki/Methylation), relevant for reducing oxidative stress if you have an MTHFR mutation (I have C677T; 23AndMe can tell you what you are)
   + [MTHFR enzyme](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase)
   + [Homocysteine](https://en.wikipedia.org/wiki/Homocysteine), most importantly the [methionine cycle](https://en.wikipedia.org/wiki/Homocysteine#/media/File:MTHFR_metabolism.svg)
   + [Hyperhomocysteinemia](https://en.wikipedia.org/wiki/Hyperhomocysteinemia), the reason I was anxious and miserable -- ([pubmed on Hcy and alcohol](https://pubmed.ncbi.nlm.nih.gov/10905999/), [pubmed on Hcy and coffee/caffeine](https://pubmed.ncbi.nlm.nih.gov/12450889/))
++ [Oxidative stress](https://en.wikipedia.org/wiki/Oxidative_stress)
+  + [ROS](https://en.wikipedia.org/wiki/Reactive_oxygen_species): toxic byproducts of normal aerobic metabolism (e.g. homocysteine)
++ [Antioxidant](https://en.wikipedia.org/wiki/Antioxidant)
+  + [Glutathione](https://en.wikipedia.org/wiki/Glutathione): "the master antioxidant" (made from glutamate + glycine + cysteine and a big reason that sleep is important -- see https://pubmed.ncbi.nlm.nih.gov/15472007/)
+  + [Vitamin C](https://en.wikipedia.org/wiki/Vitamin_C)
+  + [Vitamin E](https://en.wikipedia.org/wiki/Vitamin_E)
+  + [Beta carotene](https://en.wikipedia.org/wiki/Beta-Carotene)
 
 **Note:** homocysteine is used for multiple things in the body, including glutathione synthesis (via the trans-sulfuration pathway as an indirect cysteine source, see [this pubmed](https://pubmed.ncbi.nlm.nih.gov/12631446/) for example). I supplement [NAC](https://en.wikipedia.org/wiki/Acetylcysteine) as a substitute to supply cysteine in case my methylation adjustments result in too much Hcy->Met conversion.
+
+
+## Thyroid: basal metabolic control
++ [Thyroid hormones](https://en.wikipedia.org/wiki/Thyroid_hormones)
+  + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine)
+  + [Iodine](https://en.wikipedia.org/wiki/Iodine_in_biology), the rate-limiting factor behind thyroid control
+  + [Hypothyroidism](https://en.wikipedia.org/wiki/Hypothyroidism)
+  + [Hyperthyroidism](https://en.wikipedia.org/wiki/Hyperthyroidism)
++ [TSH](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone): causes the thyroid to produce T3 and T4, if tyrosine and iodine are available
 
 
 ## NMDA receptors: up- and down-regulating neurotransmission
@@ -52,27 +70,10 @@ These side effects both went away. The absent-mindedness turned out to be the fe
 Glutamate and glutamine are different but related. I'll sometimes supplement 10g of glutamine if I'm sluggish after I've been sick; I think the immune system consumes glutamine. Too much and I'll start to get irritable, I imagine due to excitotoxicity.
 
 
-## Oxidation and antioxidants
-+ [Oxidative stress](https://en.wikipedia.org/wiki/Oxidative_stress)
-  + [ROS](https://en.wikipedia.org/wiki/Reactive_oxygen_species): toxic byproducts of normal aerobic metabolism (e.g. homocysteine)
-+ [Antioxidant](https://en.wikipedia.org/wiki/Antioxidant)
-  + [Glutathione](https://en.wikipedia.org/wiki/Glutathione): "the master antioxidant" (made from glutamate + glycine + cysteine and a big reason that sleep is important -- see https://pubmed.ncbi.nlm.nih.gov/15472007/)
-  + [Vitamin C](https://en.wikipedia.org/wiki/Vitamin_C)
-  + [Vitamin E](https://en.wikipedia.org/wiki/Vitamin_E)
-  + [Beta carotene](https://en.wikipedia.org/wiki/Beta-Carotene)
-
-
-## Thyroid: basal metabolic control
-+ [Thyroid hormones](https://en.wikipedia.org/wiki/Thyroid_hormones)
-  + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine)
-  + [Iodine](https://en.wikipedia.org/wiki/Iodine_in_biology), the rate-limiting factor behind thyroid control
-  + [Hypothyroidism](https://en.wikipedia.org/wiki/Hypothyroidism)
-  + [Hyperthyroidism](https://en.wikipedia.org/wiki/Hyperthyroidism)
-+ [TSH](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone): causes the thyroid to produce T3 and T4, if tyrosine and iodine are available
-
-
 ## Monoamines: stuff that goes wrong sometimes
 A lot of psychiatric medications modify these neurotransmitters directly. Because I'm doing this DIY, I prefer to be one degree removed by supplementing precursors that have a rate-limiting enzyme; for example, NDRIs (e.g. prescribed amphetamines) force higher dopamine levels, tyrosine (converted by a hydroxylase enzyme) supplies the precursor but allows the brain to downregulate tyrosine hydroxylase to maintain homeostasis.
+
+**Note:** [Choline](https://en.wikipedia.org/wiki/Choline), or more precisely [acetylcholine](https://en.wikipedia.org/wiki/Acetylcholine), is a big deal as neurotransmitters go. I've tried supplementing it a few times and always got super depressed, so I don't know how it plays into bipolar disorder. It also isn't a monoamine so it isn't in the list here. But it should be on your mind if you're studying neurotransmitters and how to change them, I just don't know much about it beyond that.
 
 + [Monoamines](https://en.wikipedia.org/wiki/Monoamine_neurotransmitter)
   + [Dopamine](https://en.wikipedia.org/wiki/Dopamine): motivational salience
