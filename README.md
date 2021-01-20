@@ -14,7 +14,9 @@ With that said, though, DIY psychiatry has been a lot more fun and effective tha
 
 
 ## Quick but important aside for alcoholics
-I used to rely on alcohol to medicate anxiety. This is a terrible strategy. If this is you, I have a page [here](alcohol-substitutes.md) with some (in my opinion) much healthier and more effective alternatives that reduce OCD, may be neuroprotective, and mitigate suicide risk.
+I used to rely on alcohol to medicate anxiety. This is a terrible strategy.
+
+**If this is you, I have a page [here](alcohol-substitutes.md)** with some (in my opinion) much healthier and more effective alternatives that reduce OCD, may be neuroprotective, and mitigate suicide risk.
 
 
 ## Part 0: background reading on neurotransmitters and metabolism
