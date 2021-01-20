@@ -1,4 +1,6 @@
 # Open source bipolar disorder
+**Work in progress**
+
 Early 2019 Joyce and I figured out that I have bipolar disorder -- and probably have for most of my adult life. That was a surprise and it kicked off a bunch of research and reflection, not all of which was straightforward. I'm writing this up as the thing I wished had existed as I was trying to figure it all out.
 
 I've wanted to open-source the thought process around this problem for some time, but writing about it has been difficult. I feel like I spend a lot of time discovering that I have unresolved issues with some subtopic, usually after my writing devolves into an unconstructive polemic. This is probably the tenth iteration.
