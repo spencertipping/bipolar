@@ -1,4 +1,4 @@
-## Part 1: defining the requirements
+# Part 1: defining the requirements
 In practice this was a lot more incremental and scattered than I'm describing here, but that's just because I didn't know what I was doing nor what was possible. Here's the cleaned-up view in hindsight.
 
 

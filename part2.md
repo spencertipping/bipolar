@@ -1,98 +1,111 @@
-# Part 2: strategy and results
-I suspect I have a few major issues that require active intervention:
-
-1. Under-methylation of homocysteine due to MTHFR (and coffee+alcohol probably didn't help)
-2. Lithium deficiency
-3. General anxiety for a variety of reasons
-
-There are multiple ways to deal with these problems. I chose supplementation because it's cheap, reasonably safe, and easy to do controlled experiments. Then I know what I'm doing for longer-run changes like lifestyle and diet.
-
-**Warning:** I'm writing this up as an example of stuff to look at, not as a "you should do this" list. I mean you probably wouldn't die if you took my list verbatim, but you might complicate things a lot, e.g. with [serotonin syndrome](https://en.wikipedia.org/wiki/Serotonin_syndrome) or by inducing mania from methylfolate or tyrosine. So just a heads-up: what's safe for me might not be safe for you, etc. I recommend doing your own research and not taking the advice of random internet strangers, no matter how good-looking we are. It's not our fault, we were just born that way.
+# Part 2: background reading on neurotransmitters and metabolism
+Here's a list of Wikipedia and pubmed articles I found to be most helpful when designing a treatment strategy for my bipolar symptoms. Again, not authoritative or complete, just some starting points I used to figure things out.
 
 
-## Current medication routine
-I've been on this since about May/June 2020, so eight months as of this writing. The results have been fantastic. I'm alert, focused, consistently motivated, and low-anxiety almost all the time -- none of which I thought I would ever be able to achieve.
+## The five-minute version
+If you don't have time to read everything, here's (in my opinion) the most important stuff to know about:
 
-All of this is available over the counter; I don't use prescription medications or have a primary care physician (or even health insurance).
-
-+ Morning (daily)
-  + Neurotransmitter regulation
-    + 20mg lithium as lithium aspartate
-    + 96mg magnesium via 1333mg magnesium threonate
-  + Anxiolytics
-    + 500mg theanine
-    + 600mg ashwagandha
-  + Stimulants and brain circulation
-    + 10g tyrosine
-    + 12-18g yerba mate tea
-    + 7g ginkgo biloba + 7g bacopa monnieri + 4g gotu kola + 5g mint + 8g ginger root tea (totally ad-hoc thing, see below)
-  + Methylation
-    + 15mg-20mg methylfolate
-    + 2.5mg methyl-B12
-    + 400mg riboflavin
-  + Antioxidants and glutathione precursors
-    + 2400mg long-release NAC
-    + 10-20g collagen peptides
-    + 1500mg vitamin C
-  + Thyroid support
-    + 225mcg iodine as potassium iodide
-+ Evening (daily)
-  + 20mg lithium aspartate
-  + 3g taurine (as magnesium taurate)
-  + 1000mg tryptophan peptides
-  + B-vitamin complex
-  + Vitamin E
-  + 1000mg theanine
-+ Weekly
-  + Selenium
-
-**Note:** I suspect some of my dosages are above what's necessary. I've gotten great results, but I haven't tuned any of this for efficiency yet and it's a bit of a work in progress. If you know of things I should improve, please let me know.
-
-**Also note:** I really don't understand how riboflavin and methylation are related. It was in an article somewhere and I noticed that I can take less methylfolate when I take riboflavin too, but otherwise I don't get how it works.
-
-I also usually eat eggs and fish for breakfast, usually four eggs and 4-6oz of tuna or salmon. Dietary choline isn't a problem, although eggs and fish keep me awake if I eat them at night and I can't supplement alpha-GPC, citicholine, or ALA without getting really depressed.
-
-I still have minor mood and energy cycling throughout the year, but nothing like before. Sometimes I'll try to course-correct; here are some of the options I'll use (usually a subset, not all of them):
-
-+ If I've been sick or feel really bad (uncommon):
-  + 10g glutamine (excitotoxicity risk)
-  + 5-10-20mg DHEA (steroid-related risks)
-+ If I'm depressed or sluggish (uncommon, maybe 1-3 days/quarter)
-  + more ginkgo+bacopa tea
-  + +5-10mg methylfolate
-  + +48mg magnesium threonate
-  + +5g tyrosine
-+ If I'm anxious or jittery (more common, maybe 7-10 days/quarter)
-  + Decrease tyrosine and collagen
-  + +500-1000mg theanine as needed
-  + +600mg ashwagandha
-  + +3-5g taurine (without magnesium)
-  + +500mg tryptophan peptides
-  + +5-10mg methylfolate
-  + +2.5mg methyl-B12
++ [MTHFR enzyme](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase), the methionine cycle, and hyperhomocysteinemia -- common failure points if you have an MTHFR mutation (can be addressed with methylfolate, but read more before doing this long-term)
++ [Lithium aspartate](https://en.wikipedia.org/wiki/Lithium_aspartate), an OTC form of lithium that, IMO, is safe and everyone should take at 5mg/day or more (I take 40mg/day)
++ [Glutathione](https://en.wikipedia.org/wiki/Glutathione): "the master antioxidant" (made from glutamate + glycine + cysteine), limited by cysteine availability
++ [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine): the amino acid precursor to dopamine, melanin, and thyroid hormone -- I take 10g/day, which is a lot
++ [This page about alcohol, GABA, and NMDA](alcohol-substitution.md), which covers what I think should be common cultural knowledge about (and alternatives to) GABA-ergic drugs like alcohol and benzos
 
 
-## Rationale, insofar as one exists
-There are a few broad categories of things going on in the meds above.
+## Lithium: trace metal for neurotransmitter regulation
+I have an ax to grind here: I really think lithium is an essential trace mineral, and I think people take humongous amounts for psychiatric disorders and suffer through major side effects when smaller amounts would get a lot of the benefit. I'm not alone in suspecting these things; a number of studies have come out in support of this view.
 
-First, trace metals used to regulate neurotransmitters. Although it isn't the medical view, I believe lithium to be an essential mineral, similar to magnesium or potassium. My goal is to make sure that I have enough of all of these even under stress, which I assume will happen more than it would for most people since I probably retain some underlying bipolar cycling. Overdoing lithium or magnesium can cause problems, but there are a lot of early warning signs for both. I consider them to be safe to experiment with given that I know roughly what to look for.
+Lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects. I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater.
 
-Second, methylation and, more broadly, antioxidants. The Hcy->Met pathway consumes the methyl groups from methylfolate and requires (but doesn't consume) methylated B12. MTHFR mutations mean that I have an impaired folate methylation pathway -- that is, I may have adequate folate but I can't add methyl groups to it very quickly. As a result, the methionine cycle underperforms, resulting in high homocysteine.
+It's often prescribed in much higher doses for bipolar and other disorders; prescriptions range anywhere from 900mg-1800mg/day of lithium carbonate (~150mg-300mg of elemental lithium, if I remember right). This is why it causes problems for people. I haven't found any documented risks related to microdosing, and several articles have suggested it's neuroprotective.
 
-Methylation gets a bit more complicated because methionine isn't the only thing homocysteine is used for. This is where NAC comes into the picture.
++ [Lithium](https://en.wikipedia.org/wiki/Lithium_(medication))
+  + [Texas study suggesting that lithium is a trace nutrient](https://pubmed.ncbi.nlm.nih.gov/1699579/)
+  + [Japanese study associating trace lithium with lower suicide risk](https://pubmed.ncbi.nlm.nih.gov/19407280/)
+  + [Lithium aspartate](https://en.wikipedia.org/wiki/Lithium_aspartate), an OTC and, in my opinion, safe supplement I've used since September 2019 with no issues
 
-**TODO:** explain the business with glutathione synthesis
+**Note about initial side effects:** I got very absent-minded for a couple of weeks when I started on even a small amount of lithium (2mg/day). I also felt nauseous for about 30min after each dose.
+
+These side effects both went away. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
+
+Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
 
 
-## How this regimen came about
-**TODO:** there's a whole timeline to this that explains some of the trial and error
+## Methylation: general metabolism and oxidative stress
++ [Methylation](https://en.wikipedia.org/wiki/Methylation), relevant for reducing oxidative stress if you have an MTHFR mutation (I have C677T; 23AndMe can tell you what you are)
+  + [MTHFR enzyme](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase)
+  + [Homocysteine](https://en.wikipedia.org/wiki/Homocysteine), most importantly the [methionine cycle](https://en.wikipedia.org/wiki/Homocysteine#/media/File:MTHFR_metabolism.svg)
+  + [Hyperhomocysteinemia](https://en.wikipedia.org/wiki/Hyperhomocysteinemia), the reason I was anxious and miserable -- ([pubmed on Hcy and alcohol](https://pubmed.ncbi.nlm.nih.gov/10905999/), [pubmed on Hcy and coffee/caffeine](https://pubmed.ncbi.nlm.nih.gov/12450889/))
++ [Oxidative stress](https://en.wikipedia.org/wiki/Oxidative_stress)
+  + [ROS](https://en.wikipedia.org/wiki/Reactive_oxygen_species): toxic byproducts of normal aerobic metabolism (e.g. homocysteine)
++ [Antioxidant](https://en.wikipedia.org/wiki/Antioxidant)
+  + [Glutathione](https://en.wikipedia.org/wiki/Glutathione): "the master antioxidant" (made from glutamate + glycine + cysteine and a big reason that sleep is important -- see https://pubmed.ncbi.nlm.nih.gov/15472007/)
+  + [Vitamin C](https://en.wikipedia.org/wiki/Vitamin_C)
+  + [Vitamin E](https://en.wikipedia.org/wiki/Vitamin_E)
+  + [Beta carotene](https://en.wikipedia.org/wiki/Beta-Carotene)
+
+**Note:** homocysteine is used for multiple things in the body, including glutathione synthesis (via the trans-sulfuration pathway as an indirect cysteine source, see [this pubmed](https://pubmed.ncbi.nlm.nih.gov/12631446/) for example). I supplement [NAC](https://en.wikipedia.org/wiki/Acetylcysteine) as a substitute to supply cysteine in case my methylation adjustments result in too much Hcy->Met conversion.
 
 
-### The woo-woo gingko herbal tea stuff
-Hardly the most important thing on the list, but I should mention where this comes from and what it's about.
+## Thyroid: basal metabolic control
++ [Thyroid hormones](https://en.wikipedia.org/wiki/Thyroid_hormones)
+  + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine)
+  + [Iodine](https://en.wikipedia.org/wiki/Iodine_in_biology), the rate-limiting factor behind thyroid control
+  + [Hypothyroidism](https://en.wikipedia.org/wiki/Hypothyroidism)
+  + [Hyperthyroidism](https://en.wikipedia.org/wiki/Hyperthyroidism)
++ [TSH](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone): causes the thyroid to produce T3 and T4, if tyrosine and iodine are available
 
-There are various studies that suggest ginkgo and bacopa are good for brain circulation, help memory, and are neuroprotective. I started at the recommended dose and then multiplied it by 10 because I like to live dangerously (let's be honest: when "ginkgo biloba overdose" turns up nothing scary, that's just because people haven't tried hard enough).
 
-Gotu kola I have no idea about. It's a traditional herb and I'm a whore for ancient nootropics, so that's about all there is to it.
+## NMDA receptors: up- and down-regulating neurotransmission
++ [NMDA receptor](https://en.wikipedia.org/wiki/NMDA_receptor)
+  + [Excitotoxicity](https://en.wikipedia.org/wiki/Excitotoxicity), particularly due to [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter))
+    + [Theanine](https://en.wikipedia.org/wiki/Theanine): a safe and neuroprotective glutamate antagonist found in matcha tea that I think everyone should be familiar with (I discuss it in the context of alcohol use [here](alcohol-substitution.md))
+  + [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid), the NMDA inhibitor (relaxant) people upregulate with alcohol and benzodiazepines
+  + [GABA receptor agonist](https://en.wikipedia.org/wiki/GABA_receptor_agonist)
+  + [GABA-A receptor positive allosteric modulator](https://en.wikipedia.org/wiki/GABAA_receptor_positive_allosteric_modulator)
+    + [Alcohol](https://en.wikipedia.org/wiki/Ethanol): a bad way to upregulate GABA receptors
+    + [Benzodiazepine](https://en.wikipedia.org/wiki/Benzodiazepine): a scary and possibly bad way to upregulate GABA receptors
+  + [GABA-B receptor](https://en.wikipedia.org/wiki/GABAB_receptor)
 
-The ratios aren't special. I filled a mason jar equally by volume with ginkgo, bacopa, gotu kola, and mint leaves, then put some ginger on top. Joyce took that mixture and calculated precise gram amounts so she could make it in bulk, since she drinks it too.
+Glutamate and glutamine are different but related. I'll sometimes supplement 10g of glutamine if I'm sluggish after I've been sick; I think the immune system consumes glutamine. Too much and I'll start to get irritable, I imagine due to excitotoxicity.
+
+
+## Monoamines: stuff that goes wrong sometimes
+A lot of psychiatric medications modify these neurotransmitters directly. Because I'm doing this DIY, I prefer to be one degree removed by supplementing precursors that have a rate-limiting enzyme; for example, NDRIs (e.g. prescribed amphetamines) force higher dopamine levels, tyrosine (converted by a hydroxylase enzyme) supplies the precursor but allows the brain to downregulate tyrosine hydroxylase to maintain homeostasis.
+
+**Note:** [Choline](https://en.wikipedia.org/wiki/Choline), or more precisely [acetylcholine](https://en.wikipedia.org/wiki/Acetylcholine), is a big deal as neurotransmitters go. I've tried supplementing it a few times and always got super depressed, so I don't know how it plays into bipolar disorder. It also isn't a monoamine so it isn't in the list here. But it should be on your mind if you're studying neurotransmitters and how to change them, I just don't know much about it beyond that.
+
++ [Monoamines](https://en.wikipedia.org/wiki/Monoamine_neurotransmitter)
+  + [Dopamine](https://en.wikipedia.org/wiki/Dopamine): motivational salience
+    + [Phenylalanine](https://en.wikipedia.org/wiki/Phenylalanine), essential amino acid
+    + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine), nonessential amino acid derived from phenylalanine
+    + [Tyrosine hydroxylase](https://en.wikipedia.org/wiki/Tyrosine_hydroxylase): tyrosine -> [L-DOPA](https://en.wikipedia.org/wiki/L-DOPA)
+    + [AADC](https://en.wikipedia.org/wiki/Aromatic_L-amino_acid_decarboxylase): L-DOPA -> dopamine
+    + [Dopamine beta-hydroxylase](https://en.wikipedia.org/wiki/Dopamine_beta-hydroxylase): dopamine -> norepinephrine
+    + [NDRIs](https://en.wikipedia.org/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor), e.g. methylphenidate (Ritalin), bupropion (Wellbutrin), and amphetamine
+  + [Phenethylamine](https://en.wikipedia.org/wiki/Phenethylamine), endogeneous amphetamine-like chemicals
+  + [Serotonin](https://en.wikipedia.org/wiki/Serotonin): feeling good about stuff, sort of, but it's complicated
+    + [Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)
+    + [Tryptophan hydroxylase](https://en.wikipedia.org/wiki/Tryptophan_hydroxylase): tryptophan -> [5-HTP](https://en.wikipedia.org/wiki/5-Hydroxytryptophan)
+    + [AADC](https://en.wikipedia.org/wiki/Aromatic_L-amino_acid_decarboxylase): 5-HTP -> serotonin (same as for dopamine)
+    + [SSRIs](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor)
++ [Monoamine oxidases](https://en.wikipedia.org/wiki/Monoamine_oxidase)
+  + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
+  + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that deactivate MAO enzymes
+
+
+## Caffeinated beverages and xanthines
+Not super relevant, but I've gotten some benefit from switching to yerba mate from coffee. Different beverages have different xanthine and antioxidant profiles that can change their metabolic impact to some degree.
+
++ [Xanthine](https://en.wikipedia.org/wiki/Xanthine)
+  + [Theobromine](https://en.wikipedia.org/wiki/Theobromine), a metabolite of caffeine that doesn't cross the BBB
+  + [Caffeine](https://en.wikipedia.org/wiki/Caffeine), theobromine plus one methyl group (crosses BBB)
+  + [Theophylline](https://en.wikipedia.org/wiki/Theophylline)
++ Xanthine-laden beverages
+  + [Coffee](https://en.wikipedia.org/wiki/Coffee), which contains caffeine but no other xanthines ([SO answer about this](https://coffee.stackexchange.com/questions/2872/theobromine-in-coffee))
+  + [Green tea](https://en.wikipedia.org/wiki/Green_tea)
+  + [Yerba mate](https://en.wikipedia.org/wiki/Mate_(drink)), my favorite kind of tea, and one that includes all three xanthines
+  + [Matcha](https://en.wikipedia.org/wiki/Matcha), a green tea that naturally contains [theanine](https://en.wikipedia.org/wiki/Theanine) (which I think everyone should be familiar with; see the NMDA section above and [here](alcohol-substitution.md))
+  + **TODO:** black and oolong teas, although I don't have a lot of experience with them aside from pu'erh
+
+My intuition is that xanthines, and really anything that increases basal metabolic rate, will cause the body to emit more ROS and therefore increase the need for antioxidants. I suspect it also increases required methylation throughput, which may be why caffeine raises homocysteine ([pubmed](https://pubmed.ncbi.nlm.nih.gov/12450889/)).
