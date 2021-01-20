@@ -7,20 +7,22 @@ I suspect I have a few major issues that require active intervention:
 
 There are multiple ways to deal with these problems. I chose supplementation because it's cheap, reasonably safe, and easy to do controlled experiments. Then I know what I'm doing for longer-run changes like lifestyle and diet.
 
+**Warning:** I'm writing this up as an example of stuff to look at, not as a "you should do this" list. I mean you probably wouldn't die if you took my list verbatim, but you might complicate things a lot, e.g. with [serotonin syndrome](https://en.wikipedia.org/wiki/Serotonin_syndrome) or by inducing mania from methylfolate or tyrosine. So just a heads-up: what's safe for me might not be safe for you, etc. I recommend doing your own research and not taking the advice of random internet strangers, no matter how good-looking we are. It's not our fault, we were just born that way.
+
 
 ## Current medication routine
 I've been on this since about May/June 2020, so eight months as of this writing. The results have been fantastic. I'm alert, focused, consistently motivated, and low-anxiety almost all the time -- none of which I thought I would ever be able to achieve.
 
 All of this is available over the counter; I don't use prescription medications or have a primary care physician (or even health insurance).
 
-+ Morning
++ Morning (daily)
   + Neurotransmitter regulation
     + 20mg lithium as lithium aspartate
     + 96mg magnesium via 1333mg magnesium threonate
   + Anxiolytics
     + 500mg theanine
     + 600mg ashwagandha
-  + Stimulants
+  + Stimulants and brain circulation
     + 10g tyrosine
     + 12-18g yerba mate tea
     + 6g ginkgo biloba + 6g bacopa monnieri + 6g gotu kola + 6g mint + 1g ginger root tea
@@ -34,7 +36,7 @@ All of this is available over the counter; I don't use prescription medications 
     + 1500mg vitamin C
   + Thyroid support
     + 225mcg iodine as potassium iodide
-+ Evening
++ Evening (daily)
   + 20mg lithium aspartate
   + 3g taurine (as magnesium taurate)
   + 1000mg tryptophan peptides
@@ -44,7 +46,7 @@ All of this is available over the counter; I don't use prescription medications 
 + Weekly
   + Selenium
 
-**NOTE:** I suspect some of my dosages are above what's necessary. I've gotten great results, but I haven't tuned any of this for efficiency yet and it's a bit of a work in progress. If you know of things I should improve, please let me know.
+**Note:** I suspect some of my dosages are above what's necessary. I've gotten great results, but I haven't tuned any of this for efficiency yet and it's a bit of a work in progress. If you know of things I should improve, please let me know.
 
 I also usually eat eggs and fish for breakfast, usually four eggs and 4-6oz of tuna or salmon. The choline isn't a problem, although eggs and fish keep me awake and I can't supplement alpha-GPC, citicholine, or ALA without getting really depressed.
 
@@ -76,3 +78,5 @@ First, trace metals used to regulate neurotransmitters. Although it isn't the me
 Second, methylation and, more broadly, antioxidants. The Hcy->Met pathway consumes the methyl groups from methylfolate and requires (but doesn't consume) methylated B12. MTHFR mutations mean that I have an impaired folate methylation pathway -- that is, I may have adequate folate but I can't add methyl groups to it very quickly. As a result, the methionine cycle underperforms, resulting in high homocysteine.
 
 Methylation gets a bit more complicated because methionine isn't the only thing homocysteine is used for. This is where NAC comes into the picture.
+
+**TODO:** explain the business with glutathione synthesis
