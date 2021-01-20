@@ -14,9 +14,9 @@ With that said, though, DIY psychiatry has been a lot more fun and effective tha
 
 
 ## Quick but important aside for alcohol users
-I used to rely on alcohol to medicate anxiety. This is a terrible strategy.
+I used to rely on alcohol to medicate anxiety. This is a terrible strategy that causes brain damage and increases suicide risk.
 
-**If this is you, [I have a whole page](alcohol-substitutes.md) with some (in my opinion) much healthier and more effective alternatives that reduce OCD, may be neuroprotective, and mitigate suicide risk.** There are many safe OTC supplements that are shown to reduce addictive behavior, repair certain types of alcohol-induced brain damage, and provide comparable anxiolytic effects. I highly recommend reading about some of them before accepting alcohol as a solution to any problems or using it recreationally.
+**If this is you, [I have a whole page](alcohol-substitution.md) with some (in my opinion) much healthier and more effective alternatives that reduce OCD, may be neuroprotective, and mitigate suicide risk.** There are many safe OTC supplements that are shown to reduce addictive behavior, repair certain types of alcohol-induced brain damage, and provide comparable anxiolytic effects. I highly recommend reading about some of them before accepting alcohol as a solution to any problems or using it recreationally. [Go here!](alcohol-substitution.md)
 
 
 ## Part 0: background reading on neurotransmitters and metabolism
@@ -41,15 +41,20 @@ Here's a short list of Wikipedia and pubmed articles I found to be most helpful 
     + [Dopamine](https://en.wikipedia.org/wiki/Dopamine)
       + [Phenylalanine](https://en.wikipedia.org/wiki/Phenylalanine), essential amino acid
       + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine), nonessential amino acid derived from phenylalanine
-      + [Tyrosine hydroxylase](https://en.wikipedia.org/wiki/Tyrosine_hydroxylase), yielding [L-DOPA](https://en.wikipedia.org/wiki/L-DOPA)
-      + [DOPA decarboxylase](https://en.wikipedia.org/wiki/Aromatic_L-amino_acid_decarboxylase), yielding dopamine
-      + [Dopamine beta-hydroxylase](https://en.wikipedia.org/wiki/Dopamine_beta-hydroxylase), yielding epinephrine
+      + [Tyrosine hydroxylase](https://en.wikipedia.org/wiki/Tyrosine_hydroxylase): tyrosine -> [L-DOPA](https://en.wikipedia.org/wiki/L-DOPA)
+      + [AADC](https://en.wikipedia.org/wiki/Aromatic_L-amino_acid_decarboxylase): L-DOPA -> dopamine
+      + [Dopamine beta-hydroxylase](https://en.wikipedia.org/wiki/Dopamine_beta-hydroxylase): dopamine -> norepinephrine
+      + [NDRIs](https://en.wikipedia.org/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor), e.g. methylphenidate (Ritalin), bupropion (Wellbutrin), and amphetamine
     + [Phenethylamine](https://en.wikipedia.org/wiki/Phenethylamine), endogeneous amphetamine-like chemicals
-    + [Monoamine oxidases](https://en.wikipedia.org/wiki/Monoamine_oxidase)
-      + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
-      + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that deactivate MAO enzymes
-      + [St John's Wort](https://en.wikipedia.org/wiki/Hypericum_perforatum), which may or may not be a MAOI ([this article cites some studies I haven't looked at](https://www.apsf.org/article/st-johns-wort-charge-refuted-by-herbalist/); I thought it inhibited dopamine beta-hydroxylase but maybe that's wrong)
-      + **TODO**
+    + [Serotonin](https://en.wikipedia.org/wiki/Serotonin)
+      + [Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)
+      + [Tryptophan hydroxylase](https://en.wikipedia.org/wiki/Tryptophan_hydroxylase): tryptophan -> [5-HTP](https://en.wikipedia.org/wiki/5-Hydroxytryptophan)
+      + [AADC](https://en.wikipedia.org/wiki/Aromatic_L-amino_acid_decarboxylase): 5-HTP -> serotonin (same as for dopamine)
+  + [Monoamine oxidases](https://en.wikipedia.org/wiki/Monoamine_oxidase)
+    + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
+    + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that deactivate MAO enzymes
+    + [St John's Wort](https://en.wikipedia.org/wiki/Hypericum_perforatum), which may or may not be a MAOI ([this article cites some studies I haven't looked at](https://www.apsf.org/article/st-johns-wort-charge-refuted-by-herbalist/); I thought it inhibited dopamine beta-hydroxylase but maybe that's wrong)
+  + **TODO**
 
 
 ## Part 1: defining the requirements
