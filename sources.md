@@ -1,0 +1,42 @@
+# Sources, pseudoscience, and alternative medicine
+Any type of DIY speculation about things like psychiatry runs the risk of being [pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience). I suspect I straddle that line a little, for a few reasons:
+
+1. Things that work for me may not work for most other people with the same apparent condition (i.e. we may have a different latent condition or genetic disposition)
+2. I have different goals than many people who want to treat psychiatric disorders, particularly around risks
+3. I often deliberately avoid the most effective treatments, as they tend to bypass the most homeostatic regulation mechanisms
+
+Here are some examples of these biases.
+
+I have an MTHFR mutation, so a lot of my treatment focuses on preventing homocysteine buildup. This is questionable in medical science; I haven't had any bloodwork done to suggest that I have a problem with homocysteine, nor that my methylation is deficient. I suspect it is because I felt much better after taking methylfolate once, and have a history of relevant risk factors like coffee and alcohol use. But I didn't study this in detail; I use methylfolate because it works _for me_ -- then I retroactively speculate about why it worked. That isn't science, it's post-hoc justification -- and that's ok with me because I'm after quality of life more than quality of research.
+
+(3) is more interesting and deserves its own discussion.
+
+
+## Treatment efficacy and homeostatic regulation
+Let's take [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) as an example, and let's suppose the suspected cause is [low dopaminergic functioning](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#Genetics). From a clinical perspective, [NDRIs](https://en.wikipedia.org/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor) are considered highly effective. Rather than increasing dopamine production, they [prevent dopamine reuptake](https://en.wikipedia.org/wiki/Reuptake_inhibitor) -- that is, the same level of dopamine production will result in a higher steady-state level in the brain.
+
+It's easy to see why this works: your brain has very few ways to screw it up, no matter how pathological your dopamine production pipeline is. The flip side is that your brain also has very few ways to downregulate dopamine in the presence of an NDRI, nor is it likely to upregulate the production pipeline given persistently elevated levels. In other words, NDRIs seem to me like a last-resort kind of solution that makes sense when homeostatic regulation is a lost cause.
+
+I have no doubt that some people have this problem and need NDRIs, but I don't want to assume that about myself. I'd rather assume that various enzymes are compromised and try supplementing precursors like tyrosine to see if I can fix it on the production side. That way I don't end up with a brain that has decreased receptor sites as its last-resort downregulation mechanism, which I suspect would result in withdrawal issues -- especially if I do something else that fixes the production pathway.
+
+The approach I describe will have lower measured efficacy than direct treatments like NDRIs _for the general population_. It relies on additional conditional variables that most studies don't measure, possibly because most patients don't have their genes sequenced before they go in for treatment (and even if they did, there are probably higher-order metabolic interactions that complicate the picture). I don't think it's antiscientific for me to experiment with and use alternative treatments, but I do think it would be antiscientific for doctors to recommend them without a study that justifies their efficacy for the population in question.
+
+(I hate to say this, by the way, because I'm implicitly suggesting that we should change our prior expectations of efficacy by trying to anticipate and invert publication bias. That's obviously a bad methodology because if you change your priors you can confirm whatever you want to. I'm willing to use it because I think I can outperform general-population medical studies by experimentation, but it's still bad science from a methodological perspective.)
+
+Also, in case it's unclear, **I don't think it's fair to downgrade treatment options just because they're found to be broadly effective.** That's obviously absurd. I think the right approach is to try to understand _why_ a treatment works and consider the big-picture cost/benefit profile.
+
+
+## Finding reliable sources
+Wikipedia is great but doesn't have everything. I often end up consulting other websites like [Drugs.com](https://drugs.com) for supplemental information.
+
+I've found [MediaBiasFactCheck.com](https://mediabiasfactcheck.com) to be pretty reliable for determining whether a source is accurate. I occasionally think they may be a little off, for example with [PsychologyToday](https://mediabiasfactcheck.com/psychology-today), which I wonder about sometimes. But overall I think their assessment of sources is pretty accurate.
+
+
+## The replication crisis
+[There's a replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) affecting social sciences and medical studies. I don't consider this to be a reason to discount science or medicine because alternatives are much worse. It's more about being proactively aware of potential conflicts of interest in study design and trying to understand the mechanisms behind effects that have been observed to see if it passes a sanity check.
+
+I also don't want to understate how serious the replication crisis is for reliability purposes. Numbers vary, but Wikipedia currently describes [reproducibility in medicine](https://en.wikipedia.org/wiki/Replication_crisis#In_medicine) this way (emphasis mine):
+
+> Out of 49 medical studies from 1990–2003 with more than 1000 citations, 45 claimed that the studied therapy was effective. Out of these studies, 16% were contradicted by subsequent studies, 16% had found stronger effects than did subsequent studies, 44% were replicated, and 24% remained largely unchallenged. The US Food and Drug Administration in 1977–1990 found flaws in 10–20% of medical studies. In a paper published in 2012, Glenn Begley, a biotech consultant working at Amgen, and Lee Ellis, at the University of Texas, found that only 11% of 53 pre-clinical cancer studies could be replicated. **The irreproducible studies had a number of features in common, including that studies were not performed by investigators blinded to the experimental versus the control arms, there was a failure to repeat experiments, a lack of positive and negative controls, failure to show all the data, inappropriate use of statistical tests and use of reagents that were not appropriately validated.**
+
+A nontrivial amount of the controversy involves cancer treatments, whose conflict-of-interest profile is pretty different from psychiatric medicine -- especially supplement-based. But it's worth looking out for studies that have questionable features. Here's an example of a study I believe to be well-constructed: [gotu kola and acoustic startle response](https://pubmed.ncbi.nlm.nih.gov/11106141/).

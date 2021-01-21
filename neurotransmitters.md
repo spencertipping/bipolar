@@ -1,4 +1,4 @@
-# Part 2: background reading on neurotransmitters and metabolism
+# Background reading on neurotransmitters and metabolism
 Here's a list of Wikipedia and pubmed articles I found to be most helpful when designing a treatment strategy for my bipolar symptoms. Again, not authoritative or complete, just some starting points I used to figure things out.
 
 
@@ -28,12 +28,20 @@ It's often prescribed in much higher doses for bipolar and other disorders; pres
 
 These side effects both went away. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
 
-Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
+Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?**, but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
 
 
 ## Methylation: general metabolism and oxidative stress
+**I highly recommend finding your MTHFR status.** You can find this out using a home DNA sequencing service like 23AndMe.
+
+MTHFR mutations are relatively common (~1% in sub-saharan Africans, ~10% in caucasians, ~20% in Italians and Hispanics) and linked to a number of mental illnesses including schizophrenia, depression, and autism.
+
+MTHFR is the subject of a lot of internet speculation right now, not all of which is valid because the internet is a dumpster fire. [Here's an article](https://www.psychologytoday.com/us/blog/holistic-psychiatry/201711/mthfr-methylation-and-histamine-in-psychiatric-conditions) cautioning against assuming too much and going through some characteristic symptoms of over- and under-methylation.
+
 + [Methylation](https://en.wikipedia.org/wiki/Methylation), relevant for reducing oxidative stress if you have an MTHFR mutation (I have C677T; 23AndMe can tell you what you are)
   + [MTHFR enzyme](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase)
+  + [MTHFR deficiency](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase_deficiency)
+  + [C677T variant](https://en.wikipedia.org/wiki/Rs1801133), linked to schizophrenia, depression, and autism
   + [Homocysteine](https://en.wikipedia.org/wiki/Homocysteine), most importantly the [methionine cycle](https://en.wikipedia.org/wiki/Homocysteine#/media/File:MTHFR_metabolism.svg)
   + [Hyperhomocysteinemia](https://en.wikipedia.org/wiki/Hyperhomocysteinemia), the reason I was anxious and miserable -- ([pubmed on Hcy and alcohol](https://pubmed.ncbi.nlm.nih.gov/10905999/), [pubmed on Hcy and coffee/caffeine](https://pubmed.ncbi.nlm.nih.gov/12450889/))
 + [Oxidative stress](https://en.wikipedia.org/wiki/Oxidative_stress)
@@ -49,10 +57,11 @@ Joyce reminded me that I started taking NAC shortly after starting lithium; that
 
 ## Thyroid: basal metabolic control
 + [Thyroid hormones](https://en.wikipedia.org/wiki/Thyroid_hormones)
-  + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine)
-  + [Iodine](https://en.wikipedia.org/wiki/Iodine_in_biology), the rate-limiting factor behind thyroid control
+  + [Tyrosine](https://en.wikipedia.org/wiki/Tyrosine), the base amino acid of thyroid hormone (and dopamine)
+  + [Iodine](https://en.wikipedia.org/wiki/Iodine_in_biology), the rate-limiting factor behind thyroid hormone production
   + [Hypothyroidism](https://en.wikipedia.org/wiki/Hypothyroidism)
   + [Hyperthyroidism](https://en.wikipedia.org/wiki/Hyperthyroidism)
+  + [Hashimoto's disease](https://en.wikipedia.org/wiki/Hashimoto%27s_thyroiditis): 5% occurrence in caucasians
 + [TSH](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone): causes the thyroid to produce T3 and T4, if tyrosine and iodine are available
 
 
@@ -83,7 +92,8 @@ A lot of psychiatric medications modify these neurotransmitters directly. Becaus
     + [AADC](https://en.wikipedia.org/wiki/Aromatic_L-amino_acid_decarboxylase): L-DOPA -> dopamine
     + [Dopamine beta-hydroxylase](https://en.wikipedia.org/wiki/Dopamine_beta-hydroxylase): dopamine -> norepinephrine
     + [NDRIs](https://en.wikipedia.org/wiki/Norepinephrine%E2%80%93dopamine_reuptake_inhibitor), e.g. methylphenidate (Ritalin), bupropion (Wellbutrin), and amphetamine
-  + [Phenethylamine](https://en.wikipedia.org/wiki/Phenethylamine), endogeneous amphetamine-like chemicals
+  + [Phenethylamine](https://en.wikipedia.org/wiki/Phenethylamine), endogeneous trace amphetamine-like chemicals
+    + [Substituted amphetamine](https://en.wikipedia.org/wiki/Substituted_amphetamine)
   + [Serotonin](https://en.wikipedia.org/wiki/Serotonin): feeling good about stuff, sort of, but it's complicated
     + [Tryptophan](https://en.wikipedia.org/wiki/Tryptophan)
     + [Tryptophan hydroxylase](https://en.wikipedia.org/wiki/Tryptophan_hydroxylase): tryptophan -> [5-HTP](https://en.wikipedia.org/wiki/5-Hydroxytryptophan)
@@ -92,20 +102,3 @@ A lot of psychiatric medications modify these neurotransmitters directly. Becaus
 + [Monoamine oxidases](https://en.wikipedia.org/wiki/Monoamine_oxidase)
   + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
   + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that deactivate MAO enzymes
-
-
-## Caffeinated beverages and xanthines
-Not super relevant, but I've gotten some benefit from switching to yerba mate from coffee. Different beverages have different xanthine and antioxidant profiles that can change their metabolic impact to some degree.
-
-+ [Xanthine](https://en.wikipedia.org/wiki/Xanthine)
-  + [Theobromine](https://en.wikipedia.org/wiki/Theobromine), a metabolite of caffeine that doesn't cross the BBB
-  + [Caffeine](https://en.wikipedia.org/wiki/Caffeine), theobromine plus one methyl group (crosses BBB)
-  + [Theophylline](https://en.wikipedia.org/wiki/Theophylline)
-+ Xanthine-laden beverages
-  + [Coffee](https://en.wikipedia.org/wiki/Coffee), which contains caffeine but no other xanthines ([SO answer about this](https://coffee.stackexchange.com/questions/2872/theobromine-in-coffee))
-  + [Green tea](https://en.wikipedia.org/wiki/Green_tea)
-  + [Yerba mate](https://en.wikipedia.org/wiki/Mate_(drink)), my favorite kind of tea, and one that includes all three xanthines
-  + [Matcha](https://en.wikipedia.org/wiki/Matcha), a green tea that naturally contains [theanine](https://en.wikipedia.org/wiki/Theanine) (which I think everyone should be familiar with; see the NMDA section above and [here](alcohol-substitution.md))
-  + **TODO:** black and oolong teas, although I don't have a lot of experience with them aside from pu'erh
-
-My intuition is that xanthines, and really anything that increases basal metabolic rate, will cause the body to emit more ROS and therefore increase the need for antioxidants. I suspect it also increases required methylation throughput, which may be why caffeine raises homocysteine ([pubmed](https://pubmed.ncbi.nlm.nih.gov/12450889/)).

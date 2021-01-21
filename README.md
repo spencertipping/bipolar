@@ -7,12 +7,14 @@ I've wanted to open-source the thought process around this problem for some time
 
 ...so I'm not writing this from a place of authority or even competence. It's just stuff I found useful to read about, experiments I've tried, and my interpretations of the results.
 
-With that said, though, DIY psychiatry has been a lot more fun and effective than I thought it would be so let's get right into it. Fair warning: I started off in pretty rough shape but it's all uphill from there.
+With that said, though, DIY psychiatry has been a lot more fun and effective than I thought it would be so let's get right into it.
 
-+ [Part 1: defining the requirements](part1.md) -- some mentions of alcoholism and suicide; you can skip if that's not your thing (and the rest should still make sense)
-+ [Part 2: neurotransmitters and metabolism](part2.md)
-+ [Part 3: strategy and results](part3.md)
-+ [Part 4: postmortem and future changes](part4.md)
++ [Part 1: sources, pseudoscience, and alternative medicine](sources.md)
++ [Part 2: defining the requirements](requirements.md)
++ [Part 3: neurotransmitters and metabolism](neurotransmitters.md)
++ [Part 4: index of relevant OTC supplements](supplements.md)
++ [Part 5: strategy and results](strategy.md)
++ [Part 6: postmortem and future changes](postmortem.md)
 
 
 ## Quick but important aside for alcohol users

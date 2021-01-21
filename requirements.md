@@ -1,4 +1,6 @@
-# Part 1: defining the requirements
+# Refining the requirements
+**Warning:** I talk frankly, but not in graphic detail, about alcoholism and suicide in this one. If that isn't your thing, you can [go straight to the next section](neurotransmitters.md) and you won't miss anything important.
+
 In practice this was a lot more incremental and scattered than I'm describing here, but that's just because I didn't know what I was doing nor what was possible. Here's the cleaned-up view in hindsight.
 
 
@@ -6,6 +8,10 @@ In practice this was a lot more incremental and scattered than I'm describing he
 I strongly believe that people considering different treatment strategies should (1) understand the process as a form of enhancement rather than mitigation, (2) prioritize quality of life above almost all else, and (3) have some fallback treatment strategies in mind -- bipolar has an abysmal medical compliance rate (numbers vary, but are commonly reported between 30% and 70% after two years -- for instance [this 2000 study](https://www.researchgate.net/publication/12340472_Clinical_Factors_Associated_With_Treatment_Noncompliance_in_Euthymic_Bipolar_Patients)).
 
 More controversially, I also believe people need better recreational alternatives to dangerous drugs like alcohol and, in certain cases, caffeine. I don't have numbers to quantify this, but I commonly see bipolar associated with substance abuse as a form of self-medication. Alcohol in particular is profoundly dangerous in conjunction with mental illness because it can impair methylation and deplete lithium, magnesium, and B-vitamins -- all of which are required to maintain normal brain function. [See this page for more discussion about this.](alcohol-substitution.md)
+
+
+## Hey, before you keep reading
+You've got everything important. The rest of this page discusses the specifics of problems I was trying to fix, mostly alcoholism and suicide risk. If these are problematic topics for you, no worries -- skip ahead straight into [neurotransmitters](neurotransmitters.md). You won't be missing anything important.
 
 
 ## The problem: mental symptoms I wanted to fix
