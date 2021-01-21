@@ -144,6 +144,6 @@ If I understand this correctly, vitamins A, C, D, E, and K2 have relatively mino
 
 Here's another diagram of the methionine cycle, this time from the folate/B12 perspective:
 
-![methionine cycle](https://en.wikipedia.org/wiki/Vitamin_B12#/media/File:Folate_methionine_cycle.svg)
+![methionine cycle](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Folate_methionine_cycle.svg/2880px-Folate_methionine_cycle.svg.png)
 
 (By Boghog - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82576385)
