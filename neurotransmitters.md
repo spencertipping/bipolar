@@ -12,10 +12,10 @@ If you don't have time to read everything, here's (in my opinion) the most impor
 + [This page about alcohol, GABA, and NMDA](alcohol-substitution.md), which covers what I think should be common cultural knowledge about (and alternatives to) GABA-ergic drugs like alcohol and benzos
 
 
-## Lithium: trace metal for neurotransmitter regulation
+## Lithium: trace mineral for neurotransmitter regulation
 I have an ax to grind here: I really think lithium is an essential trace mineral, and I think people take humongous amounts for psychiatric disorders and suffer through major side effects when smaller amounts would get a lot of the benefit. I'm not alone in suspecting these things; a number of studies have come out in support of this view.
 
-Lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects. I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater.
+Lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects (although there were some short-term ones when I started; see below). I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater.
 
 It's often prescribed in much higher doses for bipolar and other disorders; prescriptions range anywhere from 900mg-1800mg/day of lithium carbonate (~150mg-300mg of elemental lithium, if I remember right). This is why it causes problems for people. I haven't found any documented risks related to microdosing, and several articles have suggested it's neuroprotective.
 
@@ -28,7 +28,7 @@ It's often prescribed in much higher doses for bipolar and other disorders; pres
 
 These side effects both went away. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
 
-Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?**, but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
+Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
 
 
 ## Methylation: general metabolism and oxidative stress
@@ -38,7 +38,13 @@ MTHFR mutations are relatively common (~1% in sub-saharan Africans, ~10% in cauc
 
 MTHFR is the subject of a lot of internet speculation right now, not all of which is valid because the internet is a dumpster fire. [Here's an article](https://www.psychologytoday.com/us/blog/holistic-psychiatry/201711/mthfr-methylation-and-histamine-in-psychiatric-conditions) cautioning against assuming too much and going through some characteristic symptoms of over- and under-methylation.
 
-+ [Methylation](https://en.wikipedia.org/wiki/Methylation), relevant for reducing oxidative stress if you have an MTHFR mutation (I have C677T; 23AndMe can tell you what you are)
+Here's a picture of the methionine cycle for context:
+
+![methionine cycle](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/MTHFR_metabolism.svg/2880px-MTHFR_metabolism.svg.png)
+
+(By Epgui - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31804170)
+
++ [Methylation](https://en.wikipedia.org/wiki/Methylation), relevant for reducing oxidative stress if you have an MTHFR mutation (I have C677T)
   + [MTHFR enzyme](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase)
   + [MTHFR deficiency](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase_deficiency)
   + [C677T variant](https://en.wikipedia.org/wiki/Rs1801133), linked to schizophrenia, depression, and autism
@@ -66,8 +72,22 @@ MTHFR is the subject of a lot of internet speculation right now, not all of whic
 
 
 ## NMDA receptors: up- and down-regulating neurotransmission
+These are a big deal and are a bit confusing. NMDA receptors have two binding sites, the glycine site and the glutamate site. However, other substances can activate each:
+
++ The glycine site can be activated by glycine or, more potently, D-serine
++ The glutamate site can be activated by glutamate or, less potently, aspartate
+
+There's a whole section on this [here](https://en.wikipedia.org/wiki/NMDA_receptor#Ligands).
+
+NMDA receptors are influenced by a lot of psychoactive drugs, including alcohol, benzodiazepines, PCP, DXM, ketamine, N₂O, and probably more.
+
+Additionally, NMDA receptors, neuron activation voltages, and trace minerals are related:
+
+> Activation of NMDA receptors results in the opening of an ion channel that is nonselective to cations, with a combined reversal potential near 0 mV. While the opening and closing of the ion channel is primarily gated by ligand binding, the current flow through the ion channel is voltage dependent. Extracellular magnesium (Mg2+) and zinc (Zn2+) ions can bind to specific sites on the receptor, blocking the passage of other cations through the open ion channel. Depolarization of the cell dislodges and repels the Mg2+ and Zn2+ ions from the pore, thus allowing a voltage-dependent flow of sodium (Na+) and small amounts of calcium (Ca2+) ions into the cell and potassium (K+) out of the cell.
+
 + [NMDA receptor](https://en.wikipedia.org/wiki/NMDA_receptor)
   + [Excitotoxicity](https://en.wikipedia.org/wiki/Excitotoxicity), particularly due to [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter))
+    + [Glutamine](https://en.wikipedia.org/wiki/Glutamine), which is metabolized to glutamate (I think after it crosses the BBB)
     + [Theanine](https://en.wikipedia.org/wiki/Theanine): a safe and neuroprotective glutamate antagonist found in matcha tea that I think everyone should be familiar with (I discuss it in the context of alcohol use [here](alcohol-substitution.md))
   + [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid), the NMDA inhibitor (relaxant) people upregulate with alcohol and benzodiazepines
   + [GABA receptor agonist](https://en.wikipedia.org/wiki/GABA_receptor_agonist)
@@ -102,3 +122,28 @@ A lot of psychiatric medications modify these neurotransmitters directly. Becaus
 + [Monoamine oxidases](https://en.wikipedia.org/wiki/Monoamine_oxidase)
   + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
   + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that deactivate MAO enzymes
+
+
+## B vitamins: oddly relevant to neurotransmitters
+If I understand this correctly, vitamins A, C, D, E, and K2 have relatively minor roles in the brain to the extent that they apply at all. Some B vitamins, however, are cofactors for all kinds of enzymes directly involved in neurotransmitter production.
+
++ [B vitamins](https://en.wikipedia.org/wiki/B_vitamins)
+  + More general-metabolic than neurological
+    + [B1 (thiamine)](https://en.wikipedia.org/wiki/Thiamine): glucose and lipid metabolism
+    + [B2 (riboflavin)](https://en.wikipedia.org/wiki/Riboflavin): indirectly involved in [5-MTHF](https://en.wikipedia.org/wiki/Levomefolic_acid) production, as a cofactor for [FAD](https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide) synthesis (see [function](https://en.wikipedia.org/wiki/Riboflavin#Function) for details)
+    + [B3 (niacin)](https://en.wikipedia.org/wiki/Vitamin_B3): general metabolic stuff, can be deficient in alcoholics ([pellagra](https://en.wikipedia.org/wiki/Pellagra))
+    + B4 does not exist for some reason
+    + [B5 (pantothenic acid)](https://en.wikipedia.org/wiki/Pantothenic_acid)
+    + [B7 (biotin)](https://en.wikipedia.org/wiki/Biotin)
+    + B8 does not exist for some reason
+  + Neurotransmitter cofactors
+    + [B6 (pyridoxine)](https://en.wikipedia.org/wiki/Vitamin_B6): activates to PLP, which is a cofactor in dopamine, serotonin, epinephrine, norepinephrine, GABA, and histamine; it also does other important stuff (so it's a big deal)
+    + [B9 (folate)](https://en.wikipedia.org/wiki/Folate): works in conjunction with B12 to remethylate homocysteine, related to [neurological disorders](https://en.wikipedia.org/wiki/Folate#Neurological_disorders)
+    + B10 and B11 aren't a thing
+    + [B12 (cobalamin)](https://en.wikipedia.org/wiki/Vitamin_B12): trades methyl groups with folate during Hcy->Met, and deficiency can be masked by MTHF supplementation
+
+Here's another diagram of the methionine cycle, this time from the folate/B12 perspective:
+
+![methionine cycle](https://en.wikipedia.org/wiki/Vitamin_B12#/media/File:Folate_methionine_cycle.svg)
+
+(By Boghog - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=82576385)
