@@ -3,6 +3,16 @@
 
 In my opinion, the goal isn't to forcibly suppress excitotoxicity by amplifying GABA receptors; it's probably better ensure adequate supply of natural NMDA inhibitors like GABA and magnesium. The brain has regulatory mechanisms designed to prevent excitotoxicity, many of which rely on things like B vitamins and trace minerals to function properly.
 
+Alcohol also has other problems, including broad toxicity and vitamin depletion.
+
+
+## Common deficiencies in alcoholics
++ [Vitamins A, B1, B6, and B9](https://pubmed.ncbi.nlm.nih.gov/3544907/) -- of these, B6 and B9 are critical for neurotransmitter metabolism
++ [Vitamins B6, B9, and B12](https://pubmed.ncbi.nlm.nih.gov/10758367/) -- B6 is critical for neurotransmitter function, and B9 and B12 collectively detoxify homocysteine into methionine (see the methylation section of [neurotransmitters](neurotransmitters.md) for more context)
++ [Magnesium](https://pubmed.ncbi.nlm.nih.gov/7836619/), which interacts with NMDA/GABA and is a CNS relaxant
+
+Basically, alcohol is addictive not only because it manipulates GABA receptors, but also because it depletes the body's natural GABA production mechanisms. Both of these things can be addressed more constructively with other substances, all of which are cheap, safer than alcohol, and available OTC.
+
 
 ## Much safer neurotransmission inhibitors
 Here's a list of GABA-ergic substances that, in my opinion, are far safer than alcohol, feel better, and may even be neuroprotective:
@@ -13,7 +23,7 @@ Here's a list of GABA-ergic substances that, in my opinion, are far safer than a
 + [Magnesium](https://en.wikipedia.org/wiki/Magnesium_in_biology) ([effects on glutamate in mice](https://pubmed.ncbi.nlm.nih.gov/18799816/))
 + [B vitamins](https://www.researchgate.net/publication/311242581_Relation_between_vitamins_of_the_b_complex_GABA_and_glutamate_and_their_role_in_neurocognitive_disorders_-Brief_review)
 
-When I say "much safer", I'm referring both to addictive potential and effects from typical long-term use. Although lithium can cause organ damage when taken in large amounts (e.g. 1000mg/day for years), nobody would do this recreationally and it isn't addictive. There's some evidence that suggests deficiency is a much more dangerous condition than overdose.
+When I say "much safer", I'm referring both to addictive potential and effects from typical long-term use. Although lithium can cause organ damage when taken in large amounts (e.g. 1000mg/day for decades), nobody would do this recreationally and it isn't addictive. There's some evidence that deficiency is a much more dangerous condition than overdose.
 
 Theanine, from what I can tell, is nonaddictive, neuroprotective, and incredibly safe. In my opinion it should be most people's front-line recreational relaxant (certainly preferred over alcohol). Some pubmed articles about it:
 
@@ -33,7 +43,7 @@ I wasn't about doing any legwork when I was drinking regularly, so I started to 
 + 3000mg magnesium taurate
 + 1000mg tryptophan peptides (or 2000mg non-peptides) -- note that there is some [kynurenine risk](https://en.wikipedia.org/wiki/Kynurenine) associated with B6 deficiency and psychiatric disorders
 + 1-2mg methylfolate -- specifically to address homocysteine caused by alcohol withdrawal
-+ B-vitamin complex every day just to cover the bases (deficiencies can cause anxiety and other problems)
++ B-vitamin complex every day just to cover the bases (deficiencies can cause anxiety and other problems; see the B-vitamin section in [neurotransmitters](neurotransmitters.md) for details)
 
 I'll note that I didn't expect this to be healthy, strictly speaking -- recreational drugs don't tend to be, and I wasn't trying to outrun the bear. I just needed something better than drinking.
 

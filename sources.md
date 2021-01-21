@@ -18,6 +18,8 @@ Wikipedia is great but doesn't have everything. I often end up consulting other 
 
 I've found [MediaBiasFactCheck.com](https://mediabiasfactcheck.com) to be pretty reliable for determining whether a source is accurate. I occasionally think they may be a little off, for example with [PsychologyToday](https://mediabiasfactcheck.com/psychology-today), which I wonder about sometimes. But overall I think their assessment of sources is pretty accurate and I tend to trust them. I also think it's worth reading [their wikipedia page](https://en.wikipedia.org/wiki/Media_Bias/Fact_Check) for context.
 
+If you know of a better fact-checking strategy, I'd like to hear about it. This is something I haven't thought about as much as I probably should.
+
 
 ## Spencer vs the psychiatric institution
 I have a beef. My expectation is that doctors view me being a potato as better than me being a hyperproductive genius but having a 10% chance of suicide, and I disagree with that assessment. I value my ability to think and at some point I'm willing to roll the dice, probably more than the medical institution would like me to. That's my prerogative because I don't owe life to anyone.
@@ -50,7 +52,7 @@ I also don't want to understate how serious the replication crisis is for reliab
 
 A nontrivial amount of the controversy involves cancer treatments, whose conflict-of-interest profile is pretty different from psychiatric medicine -- especially supplement-based. But it's worth looking out for studies that have questionable features.
 
-For example, I'll go through how I would evaluate [this study on gotu kola and acoustic startle response](https://pubmed.ncbi.nlm.nih.gov/11106141/):
+For example, I'll go through how I would evaluate [this study on gotu kola and acoustic startle response](https://pubmed.ncbi.nlm.nih.gov/11106141/), which I found after drafting the [strategy section](strategy.md):
 
 + Conflicts of interest
   + Gotu kola is unregulated, so there's no regulatory incentive to conclude efficacy (good)

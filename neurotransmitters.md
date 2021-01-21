@@ -13,7 +13,7 @@ If you don't have time to read everything, here's (in my opinion) the most impor
 
 
 ## Lithium: trace mineral for neurotransmitter regulation
-I have an ax to grind here: I really think lithium is an essential trace mineral, and I think people take humongous amounts for psychiatric disorders and suffer through major side effects when smaller amounts would get a lot of the benefit. I'm not alone in suspecting these things; a number of studies have come out in support of this view.
+I have an ax to grind here: I really think lithium is an essential trace mineral, and I think people take humongous amounts for psychiatric disorders and suffer through major side effects when smaller amounts would get a lot of the benefit. I'm not alone in suspecting these things; a number of studies have come out in support of this view ([like this one](https://pubmed.ncbi.nlm.nih.gov/30605431/)).
 
 Lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects (although there were some short-term ones when I started; see below). I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater.
 
@@ -29,6 +29,15 @@ It's often prescribed in much higher doses for bipolar and other disorders; pres
 These side effects both went away. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
 
 Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
+
+
+### Safety of different lithium salts
++ [Lithium carbonate](https://en.wikipedia.org/wiki/Lithium_carbonate): controlled substance, widely studied and considered to be safe
++ [Lithium aspartate](https://en.wikipedia.org/wiki/Lithium_aspartate): OTC; [aspartic acid](https://en.wikipedia.org/wiki/Aspartic_acid) has been studied extensively and is considered reasonably safe, but not lithium aspartate specifically
++ [Lithium orotate](https://en.wikipedia.org/wiki/Lithium_orotate): OTC; [orotic acid](https://en.wikipedia.org/wiki/Orotic_acid) may be related to urea cycle pathologies, but hasn't been thoroughly studied
++ [Lithium citrate](https://en.wikipedia.org/wiki/Lithium_citrate): OTC; [citric acid](https://en.wikipedia.org/wiki/Citric_acid) is completely safe, but lithium citrate is expensive and requires refrigeration
+
+I use lithium aspartate because the amount of aspartic acid I get from it is comparable to what's in two or three avocados. I've heard health concerns about avocados on the grounds that they're too calorie-rich or that they turn people into millennials, but never because of aspartate so I assume it's fine.
 
 
 ## Methylation: general metabolism and oxidative stress
@@ -100,7 +109,7 @@ Glutamate and glutamine are different but related. I'll sometimes supplement 10g
 
 
 ## Monoamines: stuff that goes wrong sometimes
-A lot of psychiatric medications modify these neurotransmitters directly. Because I'm doing this DIY, I prefer to be one degree removed by supplementing precursors that have a rate-limiting enzyme; for example, NDRIs (e.g. prescribed amphetamines) force higher dopamine levels, tyrosine (converted by a hydroxylase enzyme) supplies the precursor but allows the brain to downregulate tyrosine hydroxylase to maintain homeostasis.
+A lot of psychiatric medications impact these neurotransmitters directly, for instance by [inhibiting reuptake](https://en.wikipedia.org/wiki/Reuptake_inhibitor), [deactivating enzymes](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), or [modifying receptor site behavior](https://en.wikipedia.org/wiki/Allosteric_modulator). Because I'm doing this DIY, I prefer to be one degree removed by supplementing precursors that have a rate-limiting enzyme; for example, NDRIs (e.g. prescribed amphetamines) force higher dopamine levels, tyrosine (converted by a hydroxylase enzyme) supplies the precursor but allows the brain to downregulate tyrosine hydroxylase to maintain homeostasis. I provide more context for this approach [in this section](sources.md#efficacy-studies-and-homeostatic-regulation).
 
 **Note:** [Choline](https://en.wikipedia.org/wiki/Choline), or more precisely [acetylcholine](https://en.wikipedia.org/wiki/Acetylcholine), is a big deal as neurotransmitters go. I've tried supplementing it a few times and always got super depressed, so I don't know how it plays into bipolar disorder. It also isn't a monoamine so it isn't in the list here. But it should be on your mind if you're studying neurotransmitters and how to change them, I just don't know much about it beyond that.
 
@@ -121,7 +130,7 @@ A lot of psychiatric medications modify these neurotransmitters directly. Becaus
     + [SSRIs](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor)
 + [Monoamine oxidases](https://en.wikipedia.org/wiki/Monoamine_oxidase)
   + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
-  + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that deactivate MAO enzymes
+  + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that work by deactivating MAO enzymes
 
 
 ## B vitamins: oddly relevant to neurotransmitters
