@@ -56,11 +56,13 @@ For example, I'll go through how I would evaluate [this study on gotu kola and a
 
 + Conflicts of interest
   + Gotu kola is unregulated, so there's no regulatory incentive to conclude efficacy (good)
-  + Gotu kola isn't a traditional herb that isn't patented, so supply chains have no artificial price inflation (good)
+  + Gotu kola is a traditional herb that isn't patented, so supply chains have no artificial price inflation (good)
   + Gotu kola isn't the leading product for any company I know of, so I don't think it's going to figure into anyone's sales strategy in an outsized way (good)
   + Traditional medicines are often debunked by studies, so I doubt any researcher is going to tip the scales in favor (good)
+  + The sample size is tiny, N = 40, which suggests there wasn't a lot of money that went into it (probably good)
 + Study structure
   + Double-blind (good)
+  + Placebo-controlled (good)
   + Concrete hypothesis about receptor bindings up front (good), but some studies have been rewritten after the fact to look this way -- that's part of the replication crisis
   + Prior evidence with mice (good; mice are basically people so this study is pretty redundant)
   + Not-huge sample size (meh)
