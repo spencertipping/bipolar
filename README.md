@@ -33,7 +33,7 @@ I've been from a 0 (depressed) to a 9/10 (manic) on the [UK bipolar mood scale](
 + **Euthymic (6):** [Bond drives a Ford and nothing exciting happens](https://www.youtube.com/watch?v=ojob6IE4JQ4)
 + **Hypomanic (7):** [Bond has incredible luck (SNL)](https://www.youtube.com/watch?v=zbpibPm7AVE)
 + **Hypomanic (8):** [Drywall vs Daniel Craig](https://www.youtube.com/watch?v=iZxNbAwY_rk)
-+ **Manic/mixed manic (9):** same video, but there's no bad guy; Bond just steals bulldozers because he feels like it
++ **Manic/mixed manic (9):** same video but there's no bad guy; Bond just steals bulldozers because he feels like it
 
 
 ## Quick but important aside for alcohol users
