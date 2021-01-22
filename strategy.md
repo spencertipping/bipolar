@@ -7,7 +7,7 @@ I suspect I have a few major issues that require active intervention:
 
 There are multiple ways to deal with these problems. I chose supplementation because it's cheap, reasonably safe, and easy to do controlled experiments. Then I know what I'm doing for longer-run changes like lifestyle and diet.
 
-**Warning:** I'm writing this up as an example of stuff to look at, not as a "you should do this" list. I mean you probably wouldn't die if you took my list verbatim, but you might complicate things a lot, e.g. with [serotonin syndrome](https://en.wikipedia.org/wiki/Serotonin_syndrome) or by inducing mania from methylfolate or tyrosine. Many of these things also interact with prescription drugs, sometimes dangerously. So just a heads-up: what's safe for me might not be safe for you, etc. I recommend doing your own research and not taking the advice of internet strangers, no matter how good-looking we are. It's not our fault, we were just born that way.
+**Warning:** I'm writing this up as an example of stuff to look at, not as a "you should do this" list. I mean you probably wouldn't die if you took my list verbatim, but you might complicate things a lot, e.g. with [serotonin syndrome](https://en.wikipedia.org/wiki/Serotonin_syndrome) or by inducing mania from methylfolate or tyrosine. Many of these things also interact with prescription drugs and/or specific genetic conditions, sometimes dangerously. So just a heads-up: what's safe for me might not be safe for you, etc. I recommend doing your own research and not taking the advice of internet strangers, no matter how good-looking we are. It's not our fault, we were just born that way.
 
 
 ## Current medication routine
