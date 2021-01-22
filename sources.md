@@ -28,6 +28,12 @@ What that means, though, is that I'm not necessarily going to avoid hypomania as
 
 I think the medical institution should provide alternatives to the safety-first approach, and not just for me. Studies vary, but something like 60% of bipolar patients are medically noncompliant after two years. This is shockingly bad; if 60% of people stopped wearing seatbelts after two years, we'd ask ourselves how the hell we screwed it up so much. Bipolar is a more complicated problem, of course, but stuff like microdosing OTC lithium and [substituting GABA-ergic supplements for alcohol](alcohol-substitution.md) should be common wisdom in my opinion, especially for people with a history of mental problems.
 
+
+## Back to reliable sources: doctors
+I think America's medical instutition is widely misunderstood.
+
+**TODO:** bitch less, rationalize more -- the real position here is that drugs are legal (behind the medical paywall), which effectively splits the cartel supply and adds a substantial layer of regulation + expertise, not all of which is bad; it just requires some management (or something along those lines)
+
 ...also, quick rant, I really don't like the fact that drug companies and drug cartels have nearly identical incentives and sell nearly the same set of stuff. I'm not crazy here, right? Like the [opioid crisis](https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States): that's consistent with what you'd expect if pharmaceutical companies want to maximize shareholder value. I'm not saying doctors or pharmaceutical companies are evil or unknowledgeable or involved in a conspiracy; I'm just surprised that people don't expect more transparency. **Given the obvious conflicts of interest between you and your doctor, I think it's perfectly reasonable demand a solid explanation behind any non-generic medicine being prescribed to you,** including long-term side effects, mechanism of action, addiction and withdrawal, alternatives, manufacturer, and really anything else you can think of. There are also databases like [ProPublica dollars for docs](https://projects.propublica.org/docdollars/) where you can search for payments between pharmaceutical suppliers and doctors to see if your doctor is prescibing you stuff sold by one of their donors. It seems insane to me that you would have to think about this, but apparently you do.
 
 
