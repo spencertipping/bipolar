@@ -21,6 +21,21 @@ With that said, though, DIY psychiatry has been a lot more fun and effective tha
 **TODO:** Write up a quick survival guide for people who newly have to deal with someone with depression/anxiety/mania/etc. I don't feel like this is well-explained in literature; it needs to be painted more empathetically, not using the clinical tone that often exists.
 
 
+## Disordered moods from the inside: _The Office_ and James Bond
+I've been from a 0 (depressed) to a 9/10 (manic) on the [UK bipolar mood scale](https://www.bipolaruk.org/FAQs/mood-scale) and found some clips that put characters into situations where they would feel the described mood state.
+
++ **Depressed (0):** [Scott's Tots](https://www.youtube.com/watch?v=x0N2ZxQJYTw) -- no exaggeration, and this is why people commit suicide when they're depressed
++ **Depressed (1):** [Diwali](https://www.youtube.com/watch?v=XTSg6vYJcxs) -- similar; with serious depression there's a strong feeling of having no control/influence that you can see here
++ **Depressed (2):** [The roast of Michael Scott](https://www.youtube.com/watch?v=OS-utbiLy6o)
++ **Depressed (3):** [Daycare interview](https://www.youtube.com/watch?v=ZMTxLRxiiC8)
++ **Euthymic (4):** [David Wallace in the hot tub](https://www.youtube.com/watch?v=0gYbZAAJtIE)
++ **Euthymic (5):** [Jim Halpert plays dead](https://www.youtube.com/watch?v=WTyWE-SmWp4)
++ **Euthymic (6):** [Bond drives a Ford and nothing exciting happens](https://www.youtube.com/watch?v=ojob6IE4JQ4)
++ **Hypomanic (7):** [Bond has incredible luck (SNL)](https://www.youtube.com/watch?v=zbpibPm7AVE)
++ **Hypomanic (8):** [Drywall vs Daniel Craig](https://www.youtube.com/watch?v=iZxNbAwY_rk)
++ **Manic/mixed manic (9):** same video, but there's no bad guy; Bond just steals bulldozers because he feels like it
+
+
 ## Quick but important aside for alcohol users
 I used to rely on alcohol to medicate anxiety -- as in, more than social drinking. This is a terrible strategy that causes brain damage and increases suicide risk.
 
