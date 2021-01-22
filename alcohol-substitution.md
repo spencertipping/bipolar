@@ -3,11 +3,7 @@
 
 In my opinion, the goal isn't to forcibly suppress excitotoxicity by amplifying GABA receptors; it's probably better ensure adequate supply of natural NMDA inhibitors like GABA and magnesium. The brain has regulatory mechanisms designed to prevent excitotoxicity, many of which rely on things like B vitamins and trace minerals to function properly.
 
-
-## Quick aside: putting alcohol's problems into perspective
-In the grand scheme of psychoactive substances, alcohol is profoundly damaging. It's more physically addictive than cocaine ([comparison table](https://en.wikipedia.org/wiki/Substance_dependence#Dependence_potential)) and captures almost as many users. It depletes the body of thiamine, resulting in [alcohol-related dementia](https://en.wikipedia.org/wiki/Alcohol-related_dementia) if overused long-term, and is [directly neurotoxic](https://en.wikipedia.org/wiki/Alcohol-related_brain_damage). There is no sane way to understand alcohol as a safe substance, although it can be used safely (like cocaine).
-
-**TODO:** come up with a way to frame this, or drop the point if I can't
+Alcohol is also problematic from a pharmacokinetic perspective due to its zero-order elimination rate and toxic metabolites. See the "pharmacokinetics" section of [supplements](supplements.md) for more about this.
 
 
 ## Common deficiencies in alcoholics
@@ -19,24 +15,24 @@ Basically, alcohol is addictive not only because it manipulates GABA receptors, 
 
 
 ## Much safer neurotransmission inhibitors
-Here's a list of GABA-ergic substances that, in my opinion, are far safer than alcohol, feel better, and may even be neuroprotective:
+Here's a list of GABA-ergic substances that, in my opinion, are far safer than alcohol, feel better, and are widely considered to be neuroprotective:
 
 + [Theanine](https://en.wikipedia.org/wiki/Theanine)
-+ [N-acetylcysteine](https://en.wikipedia.org/wiki/Acetylcysteine) ([effects on glutamate neurotransmission in mice](https://pubmed.ncbi.nlm.nih.gov/29985009/))
++ [N-acetylcysteine](https://en.wikipedia.org/wiki/Acetylcysteine) ([effects on glutamate neurotransmission in mice](https://pubmed.ncbi.nlm.nih.gov/29985009/), the "I can't believe it's not people" of research rodents)
 + [Lithium](https://pubmed.ncbi.nlm.nih.gov/2868724/)
-+ [Magnesium](https://en.wikipedia.org/wiki/Magnesium_in_biology) ([effects on glutamate in mice](https://pubmed.ncbi.nlm.nih.gov/18799816/))
++ [Magnesium](https://en.wikipedia.org/wiki/Magnesium_in_biology) ([effects on glutamate in mice](https://pubmed.ncbi.nlm.nih.gov/18799816/), the "other other _homo sapiens_")
 + [B vitamins](https://www.researchgate.net/publication/311242581_Relation_between_vitamins_of_the_b_complex_GABA_and_glutamate_and_their_role_in_neurocognitive_disorders_-Brief_review)
 
-When I say "much safer", I'm referring both to addictive potential and effects from typical long-term use. Although lithium can cause organ damage when taken in large amounts (e.g. 1000mg/day for decades), nobody would do this recreationally and it isn't addictive. There's some evidence that deficiency is a more dangerous and much more common condition than overdose.
+When I say "much safer", I'm referring both to addictive potential and effects from typical long-term use. Although lithium can cause organ damage when taken in large amounts (e.g. 1000mg/day for decades), nobody would use this much recreationally and it isn't addictive. 5mg/day would be a perfectly reasonable amount to take, and comparable to what you'd get environmentally from groundwater in some places. There's some evidence that deficiency is a more dangerous and much more common condition than overdose (see the "lithium" section of [neurotransmitters](neurotransmitters.md) for a list of studies and additional context/safety info).
 
-Theanine, from what I can tell, is nonaddictive, neuroprotective, and incredibly safe. In my opinion it should be most people's front-line recreational relaxant (certainly preferred over alcohol). Some pubmed articles about it:
+Theanine is considered to be nonaddictive, neuroprotective, and incredibly safe. It has no withdrawal and no side-effects. In my opinion it should be most people's front-line recreational relaxant (certainly preferred over alcohol). Some pubmed articles about it:
 
 + [Safety](https://pubmed.ncbi.nlm.nih.gov/26192072/)
 + [Neuroprotection](https://pubmed.ncbi.nlm.nih.gov/31145971/)
 + [Prevention of alcohol-induced liver damage](https://pubmed.ncbi.nlm.nih.gov/16141543/)
-+ [Rats do fine when given absurdly high amounts of theanine for weeks on end](https://www.sciencedirect.com/science/article/abs/pii/S0278691506000949)
++ [Rats do fine when given absurdly high amounts of theanine for weeks on end by presumably deranged researchers](https://www.sciencedirect.com/science/article/abs/pii/S0278691506000949)
 
-Theanine and NAC have both been shown to mitigate alcohol-related liver damage when taken before consuming alcohol. NAC in particular is commonly used to detoxify the liver during acetaminophen overdose. I recall seeing studies tying both to decreased neurodegeneration from alcohol use (**TODO:** find said studies).
+Theanine and NAC have both been shown to mitigate alcohol-related liver damage when taken before consuming alcohol. NAC in particular is commonly used to detoxify the liver during acetaminophen overdose. I recall seeing studies tying both to decreased neurodegeneration from alcohol use (**TODO:** find said studies or remove this sentence).
 
 NAC is also demonstrated to help with alcohol-withdrawal depression in mice (which are essentially _homo sapiens_ in every conceivable way; [study](https://pubmed.ncbi.nlm.nih.gov/29704590/)).
 

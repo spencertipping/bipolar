@@ -15,7 +15,7 @@ If you don't have time to read everything, here's (in my opinion) the most impor
 ## Lithium: trace mineral for neurotransmitter regulation
 I have an ax to grind here: I really think lithium is an essential trace mineral, and I think people take humongous amounts for psychiatric disorders and suffer through major side effects when smaller amounts would get a lot of the benefit. I'm not alone in suspecting these things; a number of studies have come out in support of this view ([like this one](https://pubmed.ncbi.nlm.nih.gov/30605431/)).
 
-Lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects (although there were some short-term ones when I started; see below). I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater.
+Due to its unfortunate history lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects (although there were some short-term ones when I started; see below). I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater.
 
 It's often prescribed in much higher doses for bipolar and other disorders; prescriptions range anywhere from 900mg-1800mg/day of lithium carbonate (~150mg-300mg of elemental lithium, if I remember right). This is why it causes problems for people. I haven't found any documented risks related to microdosing, and several articles have suggested it's neuroprotective.
 
@@ -56,6 +56,7 @@ Here's a picture of the methionine cycle for context:
 + [Methylation](https://en.wikipedia.org/wiki/Methylation), relevant for reducing oxidative stress if you have an MTHFR mutation (I have C677T)
   + [MTHFR enzyme](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase)
   + [MTHFR deficiency](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase_deficiency)
+  + [Methylfolate or 5-MTHF](https://en.wikipedia.org/wiki/Levomefolic_acid), produced by MTHFR enzyme, which is being studied as an [adjunctive antidepressant](https://en.wikipedia.org/wiki/Levomefolic_acid#Major_depressive_disorder) when combined with SSRIs and SNRIs
   + [C677T variant](https://en.wikipedia.org/wiki/Rs1801133), linked to schizophrenia, depression, and autism
   + [Homocysteine](https://en.wikipedia.org/wiki/Homocysteine), most importantly the [methionine cycle](https://en.wikipedia.org/wiki/Homocysteine#/media/File:MTHFR_metabolism.svg)
   + [Hyperhomocysteinemia](https://en.wikipedia.org/wiki/Hyperhomocysteinemia), the reason I was anxious and miserable -- ([pubmed on Hcy and alcohol](https://pubmed.ncbi.nlm.nih.gov/10905999/), [pubmed on Hcy and coffee/caffeine](https://pubmed.ncbi.nlm.nih.gov/12450889/))

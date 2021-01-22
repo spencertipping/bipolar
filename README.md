@@ -16,6 +16,10 @@ With that said, though, DIY psychiatry has been a lot more fun and effective tha
 + [Part 5: strategy and results](strategy.md)
 + [Part 6: postmortem and future changes](postmortem.md)
 
+**TODO:** I want to create a simple "write me an email (e.g. to my employer) because I can't talk to people" thing. Not sure where to put it yet. I think it would ask a few questions and give you something you can copy/paste. Could be a question flow from generated markdown.
+
+**TODO:** Write up a quick survival guide for people who newly have to deal with someone with depression/anxiety/mania/etc. I don't feel like this is well-explained in literature; it needs to be painted more empathetically, not using the clinical tone that often exists.
+
 
 ## Quick but important aside for alcohol users
 I used to rely on alcohol to medicate anxiety -- as in, more than social drinking. This is a terrible strategy that causes brain damage and increases suicide risk.
