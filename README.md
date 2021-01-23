@@ -27,14 +27,39 @@ Open-source projects often have some short algorithm that solves a lot of unrela
 
 
 ## Part 1: what bipolar is, and why it's a problem
-**TODO:** start this new sectioning
+Behold, the [bipolar UK mood scale](https://www.bipolaruk.org/FAQs/mood-scale):
 
-+ [Part 1: sources, pseudoscience, and alternative medicine](sources.md)
-+ [Part 2: bipolar from the inside](heavy/inside.md) -- this has rough spots and you can skip it
+![the scale](https://www.bipolaruk.org/GetImage.aspx?IDMF=9e569223-c9dc-495b-b615-bb10837b15a8&w=453&h=640&src=mc)
+
+I don't know if this is authoritative or not, but Joyce found it and we've used it colloquially ever since. The item descriptions reflect my experience (if you take out hallucinations, I've run the full scale).
+
+It's normal for people to experience different moods in context; for example, you take a risk, it pans out, and that's exciting -- you're at a 7 or maybe an 8 for a while. This makes sense and it isn't considered pathological.
+
+Bipolar differs in that moods don't reflect context. You're a 2 or an 8 for no reason at all, and that's just your mood for the day or for the week.
+
+**TODO:** fix continuity/focus in this section
+
++ [The mood scale from the inside](heavy/inside.md) -- this is the full-detail version of what each mood state looks like; it's rough and you can skip it
++ [Michael Scott and James Bond re-enact the mood scale](bond-scott.md) -- a summary of the one above, but way lighter
+
+
+## Part 2: DIY medical practice for the win (probably)
+I've decided to be my own psychiatrist and use OTC stuff to fix myself. This works surprisingly well _for me,_ much better than I expected it would. I'm not 100% neurotypical, but I don't think I want to be. I don't venture into problem-states and am productive and happy >95% of the time -- which is amazing given that I started around 15-20%.
+
+I believe my outcomes would be measurably worse if I delegated this problem to a professional psychiatrist. Not all psychiatrists I'm sure, but a typical one chosen at random. I could be completely wrong in this judgment.
+
+Anyway, here's the background for this approach:
+
++ [Sources and reliability](sources.md)
++ [Thought process around being my own psychiatrist](diy-medicine.md)
++ [OTC supplements and DIY quality control](supplements.md)
+
+
+## Part 3: solving the problem
++ [Neurotransmitters and metabolism](neurotransmitters.md): we can totally change that
+
+**TODO:** reflow these sections into the above structure
+
 + [Part 3: defining the requirements](requirements.md)
-+ [Part 4: neurotransmitters and metabolism](neurotransmitters.md)
-+ [Part 5: index of relevant OTC supplements](supplements.md)
 + [Part 6: strategy and results](strategy.md)
 + [Part 7: postmortem and future changes](postmortem.md)
-
-**TODO:** I want to create a simple "write me an email (e.g. to my employer) because I can't talk to people" thing. Not sure where to put it yet. I think it would ask a few questions and give you something you can copy/paste. Could be a question flow from generated markdown.
