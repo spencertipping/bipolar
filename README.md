@@ -10,12 +10,12 @@ I've wanted to open-source the thought process around this problem for some time
 With that said, though, DIY psychiatry has been a lot more fun and effective than I thought it would be so let's get right into it.
 
 + [Part 1: sources, pseudoscience, and alternative medicine](sources.md)
-+ [Part 2: defining the requirements](requirements.md)
-+ [Part 3: neurotransmitters and metabolism](neurotransmitters.md)
-+ [Part 4: index of relevant OTC supplements](supplements.md)
-+ [Part 5: strategy and results](strategy.md)
-+ [Part 6: postmortem and future changes](postmortem.md)
-+ [Part 7: dealing with bipolar people](people.md)
++ [Part 2: bipolar from the inside](inside.md) -- this has rough spots and you can skip it
++ [Part 3: defining the requirements](requirements.md)
++ [Part 4: neurotransmitters and metabolism](neurotransmitters.md)
++ [Part 5: index of relevant OTC supplements](supplements.md)
++ [Part 6: strategy and results](strategy.md)
++ [Part 7: postmortem and future changes](postmortem.md)
 
 **TODO:** I want to create a simple "write me an email (e.g. to my employer) because I can't talk to people" thing. Not sure where to put it yet. I think it would ask a few questions and give you something you can copy/paste. Could be a question flow from generated markdown.
 
