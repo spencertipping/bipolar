@@ -9,7 +9,9 @@ I took a stupidly long time and collected a bunch of short YouTube clips that ca
 + **Euthymic (5):** [Jim Halpert plays dead](https://www.youtube.com/watch?v=WTyWE-SmWp4)
 + **Euthymic (6):** [Bond drives a Ford and nothing exciting happens](https://www.youtube.com/watch?v=ojob6IE4JQ4)
 
-If you've seen the show, David Wallace is probably the most even-keeled character -- possibly too much to exemplify the low end of euthymia. But even level-headed, he's listless and unmotivated as he talks to Michael. He's not depressed, he just unfocused and unproductive. He latches onto a dumb idea and runs with it because it's _like_ having a purpose, but it doesn't make sense.
+If you've seen the show, David Wallace is probably the most even-keeled character -- possibly too much to exemplify the low end of euthymia. But even level-headed, he's listless and unmotivated as he talks to Michael. He's not depressed, he just unfocused and unproductive. He latches onto a dumb idea and runs with it because it's _like_ having a purpose, but it really isn't the same and it doesn't make sense.
+
+In other words, David Wallace isn't distressed, he's just a step or two away from being strategic and productive.
 
 (5) picks up from there: Jim is neither driven nor passive. Before I got myself straightened out I would have characterized this as a 6 or 7, but now I realize it's pretty average. It's easy to have fun and organize small stuff like this on a normal day.
 
@@ -30,7 +32,7 @@ The roast is worse: Michael is thoroughly uncomfortable, flails inarticulately, 
 
 Diwali is where Michael starts to give up, which I think is the defining characteristic of severe depression. Once Carol turns him down he can't decide whether he wants to be a good person or not. He tries to kiss Pam not because it makes any sense (especially in context), but because he's trying to remind himself that any worthwhile life exists. I think anyone in this emotional state is a nontrivial suicide risk.
 
-Scott's Tots is quite possibly the most depressing thing I've ever seen on television -- if you can't watch it, [you're not alone](https://reddit.com/r/cantwatchscottstots). The reason I picked this clip is that it so accurately captures the hopelessness, guilt, and fear that accompany severe depression. Michael's fate is sealed from the beginning; all that's left is for him to face the music, all of which hurts other people and is his fault.
+Scott's Tots is quite possibly the most depressing thing I've ever seen on television -- if you can't watch it, [you're not alone](https://reddit.com/r/cantwatchscottstots). I picked this clip because it so accurately captures the hopelessness, guilt, and fear that accompany severe depression. Michael's fate is sealed from the beginning; all that's left is for him to face the music, all of which hurts other people and is entirely his fault.
 
 If you imagine Scott's Tots not as students but as Michael Scott being a failure of a parent (and living with it for the rest of his life), it's probably pretty clear why most people wouldn't survive this situation. Depression paints a similar picture where all of your past virtues work against you: _I've been living a lie and once my kids find out who I am, they'll be horrified_ -- that kind of thing. Depression is hard to shake off, just as it would be hard for Michael Scott to walk out of Scott's Tots and live a normal life, even if he suspected it to be materially false. It just happened and he just experienced it; that emotional state is still there. Conscious reasoning isn't very well equipped to dislodge something so visceral (although lithium helps tremendously).
 

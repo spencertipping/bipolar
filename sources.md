@@ -21,20 +21,32 @@ I've found [MediaBiasFactCheck.com](https://mediabiasfactcheck.com) to be pretty
 If you know of a better fact-checking strategy, I'd like to hear about it. This is something I haven't thought about as much as I probably should.
 
 
-## Spencer vs the psychiatric institution
+## "Safety first" is a conflict of interest (for me)
 I have a beef. My expectation is that doctors view me being a potato as better than me being a hyperproductive genius but having a 10% chance of suicide, and I disagree with that assessment. I value my ability to think and at some point I'm willing to roll the dice, probably more than the medical institution would like me to. That's my prerogative because I don't owe life to anyone.
 
-What that means, though, is that I'm not necessarily going to avoid hypomania as assiduously as bipolar medication regimes tend to (despite that being the most effective way to prevent suicide, numerically speaking). In fact, I value hypomania to some extent because it makes me extremely productive. I'd much rather be able to support consistent hypomania, have some workarounds in place for problem-mania, and avoid depression altogether even though I understand that this probably increases my risk of suicide overall. I'm more interested in living well than living predictably.
+What that means, though, is that I'm not necessarily going to avoid hypomania as assiduously as bipolar medication regimes tend to (despite that being the most effective way to prevent suicide, numerically speaking). In fact, I value hypomania to some extent because it helps me do some of my best work. I'd much rather be able to support consistent hypomania, have some workarounds in place for problem-mania, and avoid depression altogether even though I understand that this probably increases my risk of suicide overall. Quality of life is more important than quantity of life, to me anyway.
 
-I think the medical institution should provide alternatives to the safety-first approach, and not just for me. Studies vary, but something like 60% of bipolar patients are medically noncompliant after two years. This is shockingly bad; if 60% of people stopped wearing seatbelts after two years, we'd ask ourselves how the hell we screwed it up so much. Bipolar is a more complicated problem, of course, but stuff like microdosing OTC lithium and [substituting GABA-ergic supplements for alcohol](alcohol-substitution.md) should be common wisdom in my opinion, especially for people with a history of mental problems.
+I'm certain that I'm not alone in this, which is why I think the medical institution should provide alternatives to the safety-first approach. Studies vary, but something like 60% of bipolar patients are medically noncompliant after two years. This is shockingly bad; if 60% of people stopped wearing seatbelts after two years, we'd ask ourselves how the hell we screwed it up so much. Bipolar is a more complicated problem, of course, but stuff like microdosing OTC lithium and [substituting GABA-ergic supplements for alcohol](alcohol-substitution.md) should be common wisdom in my opinion, especially for people with a history of mental problems.
 
 
-## Back to reliable sources: doctors
-I think America's medical instutition is widely misunderstood.
+## ...and on that point, why I'm DIY-ing my medical life
+I sometimes think about the commercials where some dude comes on and says "my life is amazing on Awesometophen; talk to your doctor about it." Why does this happen? Why am I recommending medications to my doctor; shouldn't they already know?
 
-**TODO:** bitch less, rationalize more -- the real position here is that drugs are legal (behind the medical paywall), which effectively splits the cartel supply and adds a substantial layer of regulation + expertise, not all of which is bad; it just requires some management (or something along those lines)
+Here's what I understand these commercials to mean about our healthcare system.
 
-...also, quick rant, I really don't like the fact that drug companies and drug cartels have nearly identical incentives and sell nearly the same set of stuff. I'm not crazy here, right? Like the [opioid crisis](https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States): that's consistent with what you'd expect if pharmaceutical companies want to maximize shareholder value. I'm not saying doctors or pharmaceutical companies are evil or unknowledgeable or involved in a conspiracy; I'm just surprised that people don't expect more transparency. **Given the obvious conflicts of interest between you and your doctor, I think it's perfectly reasonable demand a solid explanation behind any non-generic medicine being prescribed to you,** including long-term side effects, mechanism of action, addiction and withdrawal, alternatives, manufacturer, and really anything else you can think of. There are also databases like [ProPublica dollars for docs](https://projects.propublica.org/docdollars/) where you can search for payments between pharmaceutical suppliers and doctors to see if your doctor is prescibing you stuff sold by one of their donors. It seems insane to me that you would have to think about this, but apparently you do.
+1. Nobody runs a commercial unless they believe it will work -- and there are companies that measure ad effectiveness, so it's reasonable to assume they do work. Following that logic...
+2. Advertising to consumers means more prescriptions.
+3. Prescriptions apply to controlled substances; your doctor doesn't prescribe you ibuprofen or some other OTC generic. These substances are controlled because they're dangerous for uninformed users.
+4. Doctors are ambivalent enough about what they prescribe that they take drug recommendations from minimally-informed patients.
+5. The only way for this not to be understood as malpractice is to assume that doctors really don't know what you need, so your idea carries some merit despite having no rationale behind it.
+
+I don't have a problem with any of this, it's just not the way I want my personal healthcare to work. It's great if my doctor prioritizes my customer satisfaction; but what I want is unbiased expertise from someone who's after long-term outcomes. Given the way we incentivize them, my suspicion is that US healthcare will trade expertise for immediate customer satisfaction whether or it not ends up being good for the customer. Doing anything else works against their economic interest.
+
+To combat this problem, doctors are highly regulated. Drugs need to be backed by efficacy studies and doctors need to stay informed about the literature. All of this is great and introduces another layer of error: my interests aren't necessarily aligned with measured efficacy for reasons I outline in the next section.
+
+By the way, I really don't have a problem with American medicine as in thinking that it's evil or nefarious or something. I got the snip from a qualified urologist and did not attempt it at home (Joyce was insistent on this point). My doctor and I had aligned interests for the procedure and it went great. So I really like US healthcare in the same sense that I really like `goto`: when you need it you need it. But I also think it's the wrong tool for long-term, complex problems that impact quality of life.
+
+...and that's what I'm staking my Wikipedia-fu against. I don't think I know more than doctors do, but I'm willing to say that I can be a better advocate for myself than I expect for them to be. And if I suck as an advocate, I can improve myself more easily than I can improve my doctor. Probably.
 
 
 ## Efficacy studies and homeostatic regulation
@@ -48,12 +60,14 @@ I have no doubt that some people have this problem and need NDRIs, but I don't w
 
 The approach I describe will have lower measured efficacy than direct treatments like NDRIs _for the general population_. It relies on additional conditional variables that most studies don't measure, possibly because most patients don't have their genes sequenced before they go in for treatment (and even if they did, there are probably higher-order metabolic interactions that complicate the picture). I don't think it's antiscientific for me to experiment with and use alternative treatments, but I do think it would be antiscientific for doctors to recommend them without a study that justifies their efficacy for the population in question.
 
+**TODO:** fix continuity with the parenthetical below
+
 (I hate to point to publication bias, by the way, because I'm implicitly suggesting that we should change our prior expectations of efficacy to adjust for something we're guessing about. That's obviously a bad methodology because you can confirm whatever you want to. I'm willing to use it because I think I can outperform general-population medical studies by experimentation, but it's still bad science from a methodological perspective.)
 
 Also, in case it's unclear, I don't think it's fair to downgrade treatment options just because they're found to be broadly effective -- like that means they compromise homeostasis by default. That's obviously absurd. I think the right approach is to try to understand _why_ a treatment works and consider the big-picture cost/benefit profile.
 
 
-## The replication crisis, and why I largely ignore it
+## The replication crisis and why I largely ignore it
 [There's a replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) affecting social sciences and medical studies. I don't consider this to be a reason to discount science or medicine because alternatives are much worse. It's more about being proactively aware of potential conflicts of interest in study design and trying to understand the mechanisms behind effects that have been observed to see if it passes a sanity check.
 
 I also don't want to understate how serious the replication crisis is for reliability purposes. Numbers vary, but Wikipedia currently describes [reproducibility in medicine](https://en.wikipedia.org/wiki/Replication_crisis#In_medicine) this way (emphasis mine):
