@@ -1,4 +1,6 @@
 # Finding reliable sources
+**TODO:** do we need this page? It's barely worthwhile imo.
+
 Wikipedia is great but doesn't have everything. I often end up consulting other websites like [Drugs.com](https://drugs.com) for supplemental information.
 
 I've found [MediaBiasFactCheck.com](https://mediabiasfactcheck.com) to be pretty reliable for determining whether a source is accurate. I occasionally think they may be a little off, for example with [PsychologyToday](https://mediabiasfactcheck.com/psychology-today), which I wonder about sometimes. But overall I think their assessment of sources is pretty accurate and I tend to trust them. I also think it's worth reading [their wikipedia page](https://en.wikipedia.org/wiki/Media_Bias/Fact_Check) for context.

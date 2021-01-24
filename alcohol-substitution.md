@@ -1,4 +1,6 @@
 # GABA-ergic drugs and alcohol substitution
+**TODO:** re-outline and rewrite this page; it lacks continuity
+
 **Quick note:** despite having been an alcoholic in the past, I'm not anti-alcohol and still drink occasionally. This section reads like I'm a conflicted Baptist because I think our cultural sensibilities around alcohol are really bad. Engineers don't learn computer science on PHP and `goto`, and humans shouldn't learn psychoactives on alcohol and weed. That's the big thing I'm pushing back against on this page: not that people use alcohol, but that people _misuse_ it.
 
 [GABA-A receptor positive allosteric modulators](https://en.wikipedia.org/wiki/GABAA_receptor_positive_allosteric_modulator) such as alcohol, barbiturates, benzodiazepines (Xanax, Valium), and nonbenzodiazepines (Ambien) reduce anxiety by increasing [GABA-A receptor activity](https://en.wikipedia.org/wiki/GABAA_receptor), which increases the amount of voltage required to activate neurons, resulting in less neurotransmission (and, I assume, less excitotoxicity, which I imagine is why people claim that small amounts of alcohol can be neuroprotective). Withdrawal is a big issue because excitotoxicity is miserable and can kill you.

@@ -1,4 +1,6 @@
 # Refining the requirements
+**TODO:** delete this page
+
 **Warning:** I talk frankly, but not in graphic detail, about alcoholism and suicide in this one. If that isn't your thing, you can [go straight to the next section](neurotransmitters.md) and you won't miss anything important.
 
 In practice this was a lot more incremental and scattered than I'm describing here, but that's just because I didn't know what I was doing nor what was possible. Here's the cleaned-up view in hindsight.

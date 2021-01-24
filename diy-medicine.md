@@ -1,4 +1,6 @@
 # DIY psychiatry
+**TODO:** re-outline and rewrite this page; it's too post-hoc and lacks continuity
+
 Any type of DIY speculation about things like psychiatry runs the risk of being [pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience). I suspect I straddle that line a little, for a few reasons:
 
 1. Things that work for me may not work for most other people with the same apparent condition (i.e. we may have a different latent condition or genetic disposition)

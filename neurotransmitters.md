@@ -3,6 +3,8 @@ Here's a list of Wikipedia and pubmed articles I found to be most helpful when d
 
 
 ## The five-minute version
+**TODO:** re-review this section to make sure it summarizes the rest (and maybe start by fleshing everything else out first)
+
 If you don't have time to read everything, here's (in my opinion) the most important stuff to know about:
 
 + [MTHFR enzyme](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase), the methionine cycle, and hyperhomocysteinemia -- common failure points if you have an MTHFR mutation (can be addressed with methylfolate, but read more before doing this long-term)

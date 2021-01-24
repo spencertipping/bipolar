@@ -1,6 +1,8 @@
 # Open source bipolar disorder
 **Work in progress**
 
+**TODO:** I overuse parentheticals. A lot. Review these and delete where applicable.
+
 Early 2019 Joyce and I figured out that I have bipolar disorder -- and probably have for most of my adult life. That was a surprise and it kicked off a bunch of research and reflection, not all of which was straightforward.
 
 I've wanted to write about it ever since the diagnosis, but it's not an easy topic for me to address. The biggest obstacle isn't that I'm unwilling to talk about it; that's actually very easy for me. The hard part is maintaining enough emotional composure to discuss it without sounding like a lunatic. I spend most of my time being an engineer, which means (1) I'm not a great writer; and (2) I usually write about emotionally un-demanding things.
@@ -10,6 +12,8 @@ So this whole project is, in that sense, outside my comfort zone. Sorry in advan
 As for why it exists, it's for the same reasons I write open-source software. Whenever I solve a hard problem, I want to publish the solution so others have more to work with. Like software, it isn't about finding _the_ solution, it's about finding _my_ solution -- which may be similar to others' or it may be completely different. The goal isn't necessarily to solve everyone's problems, it's to prove that similar problems are solvable and explain the process.
 
 **This writeup is intentionally subjective.** Even when I don't phrase things that way, that's how I intend it. My main goal is to describe my experience, reasoning process, and how I relate to it all in hindsight -- and to preserve as much detail as I can. Not everyone with bipolar disorder will see things the same way, nor will many of my decisions make sense for other people. Like any open-source project, I welcome feedback. You can email me or file a github issue; I'll respond to both.
+
+**FIXME:** I can do better. The next paragraph shouldn't need to exist.
 
 This writeup also covers some hard topics, plumbing the depths of depression and that sort of thing. I've tried to indicate ahead of time when you'll encounter these sections so you can skip over them, and where possible I've tried to provide lighter alternatives to make up any missing context. I don't think they're bad sections or poorly written -- given the topic it's some of my most balanced engineering prose -- but I think they'll be hard to read and they certainly aren't for everyone. If you read this writeup repeatedly and never touch some sections, I think that's appropriate; it's what I had in mind when writing it.
 
@@ -46,6 +50,8 @@ Bipolar differs in that moods don't reflect context. You're a 2 or an 8 for no r
 
 
 ## Part 2: DIY medical practice for the win (probably)
+**TODO:** edit for tone
+
 I've decided to be my own psychiatrist and use OTC stuff to fix myself. This works surprisingly well _for me,_ much better than I expected it would. I'm not 100% neurotypical, but I don't think I want to be. I don't venture into problem-states and am productive and happy >95% of the time -- which is amazing given that I started around 15-20%.
 
 I believe my outcomes would be measurably worse if I delegated this problem to a professional psychiatrist. Not all psychiatrists I'm sure, but a typical one chosen at random. I could be completely wrong in this judgment.

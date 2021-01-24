@@ -1,4 +1,6 @@
 # Unreal emotional states from the inside
+**FIXME:** this page has no good excuse for being as hard to read as it is. I should commit to a litmus test: if I can't explain something with a light tone, I probably don't understand it.
+
 **Heads up: this page is rough.** You can skip it and everything else will make sense. I wrote it to make it easier to understand the _why_ behind bipolar behavior, which I think is rarely addressed in much detail, but there's no easy way to describe some parts.
 
 I took a stupidly long time and collected a bunch of short YouTube clips that capture the UK mood scale as I've experienced it. TV clips are a good way to explore altered moods because they present surreal situations without the constraint of reality, often involving characters that are much more resilient than normal people. In our case, James Bond and Michael Scott.
