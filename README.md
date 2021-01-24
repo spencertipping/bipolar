@@ -33,6 +33,8 @@ Behold, the [bipolar UK mood scale](https://www.bipolaruk.org/FAQs/mood-scale):
 
 I don't know if this is authoritative or not, but Joyce found it and we've used it colloquially ever since. The item descriptions reflect my experience (if you take out hallucinations, I've run the full scale).
 
+**FIXME:** the above is a lie
+
 It's normal for people to experience different moods in context; for example, you take a risk, it pans out, and that's exciting -- you're at a 7 or maybe an 8 for a while. This makes sense and it isn't considered pathological.
 
 Bipolar differs in that moods don't reflect context. You're a 2 or an 8 for no reason at all, and that's just your mood for the day or for the week.
@@ -56,7 +58,7 @@ Anyway, here's the background for this approach:
 
 
 ## Part 3: solving the problem
-+ [Neurotransmitters and metabolism](neurotransmitters.md): we can totally change that
++ [Neurotransmitters and metabolism](neurotransmitters.md): independent variables for drug users
 
 **TODO:** reflow these sections into the above structure
 
