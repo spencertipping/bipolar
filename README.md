@@ -19,11 +19,11 @@ This writeup also covers some hard topics, plumbing the depths of depression and
 ## Quick links for people with immediate problems
 This section covers some quick, focused subproblems of bipolar and substance abuse. Most of the repo takes a broader perspective, but these pages are different in that they focus on very specific problems and solutions I either arrived at, or wished I had found.
 
-I'm including it here because bipolar is a dangerous condition to face with a lack of information.
+I'm including it here because bipolar is a dangerous condition to face with a lack of information. I don't think I have authoritative, medically-correct answers; but I do have answers I believe are better than the bipolar status quo. To be fair, that's not a high bar.
 
 + [How I used safer alternatives to help get past alcoholism](alcohol-substitution.md)
-+ **TODO:** the "don't die" project of self-directed lectures to prevent suicide
-+ **TODO:** the "email my manager" problem
++ [Emailing my employer: messages I couldn't write when impaired](emails.md)
++ **TODO**
 
 
 ## Part 1: the structure and implications of bipolar

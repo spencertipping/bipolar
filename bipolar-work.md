@@ -8,6 +8,10 @@ That bias isn't a bad one in my opinion. It's been tremendously useful, particul
 But it's also at the core of the conflicts I observe between myself and employers when I'm too impaired to mediate it into something constructive. Instead of being open-minded and creative, I come across as un-empathetic and overly critical. Other people's shortcomings aren't opportunities for me to be a helpful or supportive person, they're obstacles to productivity that I don't have the energy or patience to deal with.
 
 
+## The big problem: protocol negotiation
+**TODO**
+
+
 ## "Corporate nice": not just for Minnesotans
 I like people who call corporate culture on its bullshit. One such freedom fighter is Steve Yegge, whose [cynical deconstruction of Google Cloud's deprecation policy and surrounding PR](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc) perfectly exemplifies a mood-disordered read on the broader space of office lingo.
 
