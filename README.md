@@ -31,7 +31,7 @@ Behold, the [bipolar UK mood scale](https://www.bipolaruk.org/FAQs/mood-scale):
 
 ![the scale](https://www.bipolaruk.org/GetImage.aspx?IDMF=9e569223-c9dc-495b-b615-bb10837b15a8&w=453&h=640&src=mc)
 
-I don't know if this is authoritative or not -- it says it isn't -- but Joyce found it and we've used it conversationally ever since. The item descriptions reflect my experience, which range from 1-8 and occasionally 0 and 9. I can't comment on 10 because although I've had moments where I wasn't very coherent, I never lost touch with concrete reality.
+As it says, this chart isn't authoritative, but Joyce and I have used it conversationally since she found it. The item descriptions reflect my experience, which range from 1-8 and occasionally 0 and 9. I can't comment on 10 because although I've had moments where I wasn't very coherent, I never lost touch with concrete reality.
 
 I went through Youtube and collected some clips that, in my opinion, describe the atmosphere of each affective state:
 
