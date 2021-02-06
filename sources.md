@@ -8,6 +8,16 @@ I've found [MediaBiasFactCheck.com](https://mediabiasfactcheck.com) to be pretty
 If you know of a better fact-checking strategy, I'd like to hear about it. This is something I haven't thought about as much as I probably should.
 
 
+## Wikipedia and literacy
+This sounds weird, but I was illiterate when I dropped out of my senior year of college. By that I mean that I couldn't make sense of most Wikipedia articles. It was too technical, its sentence structure was too convoluted, and there were too many words I didn't know. The articles were written in English and I couldn't read them.
+
+It took me about four years to overcome this. I'd open a page, fail to understand it, close it, and come back next week. Each time it made a little more sense. I spent a lot of time looking up definitions and finding simpler explanations to build up intuition.
+
+In my opinion, Wikipedia is the new bar for functional literacy and intellectual self-sufficiency. Thanks to the generosity of thousands of subject matter experts, most consequential human knowledge is freely available; the only barrier is the ability to read.
+
+...so if you're looking at Wikipedia and it doesn't make sense, (1) you aren't alone; and (2) I think it's a known and fixable defect of American education. I highly encourage you to stick it out because once you can understand Wikipedia, you have a passport to pretty much any form of expertise you care to acquire.
+
+
 ## The replication crisis and why I largely ignore it
 You've probably heard about [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) affecting social sciences and medical studies. I don't consider this to be a reason to discount science or medicine because alternatives are much worse. It's more about being proactively aware of potential conflicts of interest in study design and trying to understand the mechanisms behind effects that have been observed to see if it passes a sanity check.
 

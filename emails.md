@@ -1,5 +1,5 @@
 # Emails that are hard to write when affectively compromised
-I go over this in more detail in [bipolar at work](bipolar-work.md), but the gist is that it can be hard to communicate in a corporate-acceptable way if one is sufficiently tweaked. I routinely had trouble with this.
+I go over this in more detail in [bipolar at work](heavy/bipolar-work.md), but the gist is that it can be hard to communicate in a corporate-acceptable way if one is sufficiently tweaked. I routinely had trouble with this.
 
 ...so I've put together a page of survival emails that I wish I had been able to use when I needed to manage situations during a mood crisis.
 

@@ -43,10 +43,12 @@ Most of these moods occur in real-life situations, maybe with the exception of t
 1. Most of the world, especially at work, expects people to exist between 4 and 6, maybe 7 occasionally.
 2. Extremes like 0-1 and 8-9 don't work well for life in general; it's hard to maintain self-sufficiency, and high-end rational thought is pretty much impossible.
 
-I've summarized some of the detailed issues in topic-specific pages:
+I've summarized some detailed issues in topic-specific pages:
 
-+ [Bipolar at work](bipolar-work.md)
-+ [Bipolar in marriage](bipolar-marriage.md)
++ [Bipolar in projects: consistency vs genius](consistency.md)
++ [Synthetic empathy: tolerance vs understanding](synthetic-empathy.md)
++ [Bipolar at work](heavy/bipolar-work.md)
++ [Bipolar in marriage](heavy/bipolar-marriage.md)
 
 
 ## Part 2: DIY medical practice for the win (probably)
