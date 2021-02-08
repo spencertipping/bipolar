@@ -1,6 +1,8 @@
 # Bipolar in marriage
 Bipolar has the questionable distinction of having [a whole reddit forum dedicated to significant others](https://reddit.com/r/bipolarsos). Their views of bipolar disorder are overwhelmingly negative, which I think is appropriate.
 
+**TODO:** move this core principle into its own thing? There's a social-contract discussion common to both this and bipolar-work.
+
 At its core I think the problem works like this: marriage, and any constructive partnership really, involves balancing individual autonomy and cooperation. Compatibility happens when one's individuality doesn't interfere with shared goals.
 
 Bipolar disrupts this equation by compromising two important variables: emotional bonding and emotional self-sufficiency.

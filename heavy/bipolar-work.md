@@ -1,6 +1,8 @@
 # Bipolar at work
 **Heads up: this has some depressing content. I've got another one of these tags on the section where it shows up.**
 
+**TODO:** this page is more cynical than my views are. Rewrite it, but not early in the morning (when I tend to be in a more critical frame of mind).
+
 This one is complicated for me to summarize because even without bipolar I'm just a strange person. I'm not sure how to attribute my career progression to mental illness vs mental weirdness, but some parts are obvious so I'll start with those.
 
 In case my github profile didn't give it away, I'm a programmer. I've tended to work at startups doing off-beat, largely solo problems that didn't fit neatly into other departments. In a vacuum, my bias is digging below the commonly-accepted level of abstraction to question what gets taken for granted and find alternative strategies to solve problems. This results in unorthodox solutions that are sometimes crucial and are almost always difficult for others to maintain.
@@ -19,6 +21,8 @@ So when I indict some corporate norm for being irrational, there's no moral supe
 
 
 ### Philosophical aside: why this worldview is awful
+**TODO:** can I pack this down a bit? It seems extraneous even though I like having the hedge.
+
 My worldview reeks of privilege because I'm selfish and lack perspective. I'm happy to appeal to individualistic consent-absolutism (which I genuinely value) to avoid hard moral questions about human dignity. Philosophically, this is as bankrupt as using freedom of speech to justify fraud.
 
 A more visceral indictment is that my self-image is predicated on being intelligent and capable. I don't have a way to understand myself absent those attributes. Correspondingly, like most narcissists, I lack some basic empathy for people who are less self-sufficient. I'll say "let's create a UBI" as though the problem is isolated to economic policy, ignoring the larger issue that we confuse productivity for dignity.
@@ -39,6 +43,8 @@ For some reason, I began to suspect that something mysterious/weird/suspicious w
 
 
 ## Corporate nice
+**TODO:** soften this up and balance the narrative by describing the virtues of corporate nice
+
 I like people who call corporate culture on its bullshit. One such freedom fighter is Steve Yegge, whose [cynical deconstruction of Google Cloud's deprecation policy and surrounding PR](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc) perfectly exemplifies a mood-disordered read on the broader space of office lingo. (Steve Yegge doesn't have a mental illness to my knowledge, I just like the way he reads between the lines.)
 
 The problem is simple: corporations are made of people, yet certain degrees of humanity don't fit well into a corporate environment. So we put suits on monkeys and feign ubiquitous warmth by littering communications with non-sequitur "please" and "thank you". I have to think that neurotypical people tolerate this rather than embracing it, but either way it creates a challenging environment for anyone with compromised affect.
@@ -52,7 +58,7 @@ Take a simple email:
 > Thank you,
 > Steve
 
-Eminently professional, but emotionally opaque. I think we use Bayesian inference to assign affect to these things; sparing the math, that just means we'll interpret the emotional ambiguity according to our prior expectation. Altered moods influence this prior expectation substantially.
+Eminently professional, but emotionally opaque. I think we use something like Bayesian inference to assign affect to these things; sparing the math, that just means we'll interpret the emotional ambiguity according to our prior expectation. Altered moods influence this prior expectation substantially.
 
 
 ### Equally plausible interpretations

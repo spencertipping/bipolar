@@ -1,11 +1,21 @@
 # Open source bipolar disorder
 **Work in progress**
 
+**TODO:** the narrative tone is coming together, but it still needs work. Particularly on the new sections. I think it sounds uneven or overly critical in some parts.
+
+**TODO:** the time I spend on each issue doesn't reflect importance very well yet.
+
+**TODO:** I probably need to re-outline stuff once I'm done exploring new discussions. I don't think this README is a very good table of contents.
+
+**TODO:** fix broken/misleading links (I've moved some content since referring to it)
+
 Early 2019 Joyce and I figured out that I have bipolar disorder -- and probably have for most of my adult life. That was a surprise and it kicked off a bunch of research and reflection, not all of which was straightforward.
 
 I've wanted to write about it ever since the diagnosis, but it's not an easy topic for me to address. The biggest obstacle isn't that I'm unwilling to talk about it; that's actually very easy for me. The hard part is maintaining enough emotional composure to discuss it without sounding like a lunatic. I spend most of my time being an engineer, which means (1) I'm not a great writer; and (2) I usually write about emotionally un-demanding things.
 
 So this whole project is, in that sense, outside my comfort zone. Sorry in advance for the uneven quality.
+
+**TODO:** the paragraph below relates to the emergent-social-liberalism idea. Can it be flowed better into that conversation?
 
 As for why it exists, it's for the same reasons I write open-source software. Whenever I solve a hard problem and learn something, I want to publish the solution so others have more to work with. Different people will solve similar problems in different ways, but if more of those ways are explained then the world is easier to navigate.
 
@@ -21,12 +31,16 @@ This section covers some quick, focused subproblems of bipolar and substance abu
 
 I'm including it here because bipolar is a dangerous condition to face with a lack of information. I don't think I have authoritative, medically-correct answers; but I do have answers I believe are better than the bipolar status quo. To be fair, that's not a high bar.
 
+**TODO:** clarify the aforementioned status quo
+
 + [How I used safer alternatives to help get past alcoholism](alcohol-substitution.md)
 + [Emailing my employer: messages I couldn't write when impaired](emails.md)
 + **TODO**
 
 
 ## Part 1: the structure and implications of bipolar
+**TODO:** can I pack down this section? It takes up a lot of vertical space.
+
 Behold, the [bipolar UK mood scale](https://www.bipolaruk.org/FAQs/mood-scale):
 
 ![the scale](https://www.bipolaruk.org/GetImage.aspx?IDMF=9e569223-c9dc-495b-b615-bb10837b15a8&w=453&h=640&src=mc)
@@ -44,6 +58,8 @@ Most of these moods occur in real-life situations, maybe with the exception of t
 2. Extremes like 0-1 and 8-9 don't work well for life in general; it's hard to maintain self-sufficiency, and high-end rational thought is pretty much impossible.
 
 I've summarized some detailed issues in topic-specific pages:
+
+**TODO:** outline this list more deliberately and get better narrative flow. Right now it's too disjoint and doesn't feel cohesive.
 
 + [Bipolar in projects: consistency vs genius](consistency.md)
 + [Synthetic empathy: tolerance vs understanding](synthetic-empathy.md)
