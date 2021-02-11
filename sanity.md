@@ -1,11 +1,9 @@
 # I don't believe in sanity
-I believe in _in_sanity, but I don't believe that there's intrinsic value in the mythos we create around the "sane mind". I do believe there's value in being consistent and well-reasoned. I've collected some thought experiments that inform my belief that "sanity" as we understand it is either rare or absent.
-
-To make this page easier to follow, I put quotes around culturally-normative "sanity" when it's otherwise ambiguous.
+I believe in _insanity,_ but I don't believe that there's intrinsic value in the mythos we create around the "sane mind". I do believe there's value in being consistent and well-reasoned. I've collected some thought experiments that inform my belief that the sanity we assign to the neurotypical mind is either rare or absent.
 
 
 ## Why I care
-"Sanity" is often held up as the desired endpoint of medical treatment. This could be xenophobia that undervalues neurodiversity, but I prefer to see it as a negligent overvaluation of neurotypical thought. "Normal" is confused with "functional" despite its many shortcomings.
+Neurotypicality is often held up as the desired endpoint of medical treatment. This could be xenophobia that undervalues neurodiversity, but I prefer to see it as a blind overvaluation of neurotypical thought. "Normal" is confused with "functional" despite its many shortcomings.
 
 When considering medication, my goal was never to converge to the set of blindnesses and limitations that typify normative sanity. Some of my neuroatypicalities were maladaptive, but I also had strengths. Not every deviation was a problem.
 
@@ -23,11 +21,11 @@ Sane people don't reliably identify humanity. We assign humanity to things that 
 
 People interpret the experiment differently. My view is that it demonstrates the inconsistency between what we know to be true and what we believe to be true; from a psychiatric perspective meets the criteria for [delusional psychosis](https://en.wikipedia.org/wiki/Psychosis#Delusions).
 
-What interests me is that nothing about the situation should have prompted this degree of disordered thought. Normal people can become psychotic in stressful or medically unusual circumstances, but neither is typical in an art museum. The only way I can understand this is as a built-in pathology that we go to some lengths to avoid in daily life, whether or not we're aware of our complicity or motive. In other words, we're only conditionally sane.
+What interests me is that nothing about the situation should have prompted this degree of disordered thought. Normal people can become psychotic in stressful or medically unusual circumstances, but neither is typical in an art museum. The only way I can understand this is as a built-in pathology that we go to some lengths to avoid in daily life, whether or not we're aware of our complicity or motive. In other words, neurotypical people are only conditionally sane.
 
 [_Ex Machina_](https://en.wikipedia.org/wiki/Ex_Machina_(film)) is similar but works the other way. The film is about a person who is presented with an obviously non-human machine that acts human. Does the person assign humanity to a machine knowing that it is a machine?
 
-More than a fictional commentary, however, _Ex Machina_ became a Turing test for the broader audience as we began analyzing its commentary about women. I can understand it as a commentary about misogynistic men, but I can't understand it as being misogynistic itself because _there are no women in the movie_. Every character people describe as a woman is shown to be a machine, and we as the audience are expected to understand this.
+More than a fictional commentary, _Ex Machina_ became a Turing test for the broader audience as we began analyzing its commentary about women. I can understand it as a commentary about misogynistic men, but I can't understand it as being misogynistic itself because _there are no women in the movie_. Every character people describe as a woman is shown to be a machine, and we as the audience are expected to understand this.
 
 
 ### _Ex Machina_ interpretations are contentious, so here's my thought process
