@@ -110,7 +110,7 @@ Ideally none, but I don't want it to be ambiguous. So I'll feel a little compell
 
 After this kind of overthinking I'd often end up not sending anything at all. I'd quietly go to work and hope that nobody wanted to talk to me.
 
-This problem was entirely my fault. Had I been thinking about it more clearly, I would have written up [email templates](emails.md) to deal with common situations.
+This problem was entirely my fault. Had I been thinking about it more clearly, I would have written up [email templates](../emails.md) to deal with common situations.
 
 
 ## Passionate about the job
