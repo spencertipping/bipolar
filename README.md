@@ -51,3 +51,17 @@ Bipolar complicates social interactions. Some of the difficulty improves with aw
 + Work
   + [Bipolar at work](heavy/bipolar-work.md)
   + [Emailing my employer: messages I couldn't write when impaired](emails.md)
+
+
+## Reading (TODO: inline these where appropriate)
++ [Potentiation strategies for treatment-resistant depression](https://pubmed.ncbi.nlm.nih.gov/16307616/)
+  + [Lithium augmentation of antidepressants](https://pubmed.ncbi.nlm.nih.gov/9635546/)
+  + [Thyroid augmentation of antidepressants](https://pubmed.ncbi.nlm.nih.gov/9635545/)
++ [Neuropharmacology](https://en.wikipedia.org/wiki/Neuropharmacology)
+  + [Neuropsychopharmacology](https://en.wikipedia.org/wiki/Neuropsychopharmacology)
++ [Memory consolidation](https://en.wikipedia.org/wiki/Memory_consolidation)
+  + [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus)
+  + [Long-term potentiation](https://en.wikipedia.org/wiki/Long-term_potentiation)
+  + [Long-term depression](https://en.wikipedia.org/wiki/Long-term_depression)
+  + [Long-term potentiation in bipolar II](https://pubmed.ncbi.nlm.nih.gov/29795193/)
+  + [Impaired synaptic plasticity in bipolar II](https://pubmed.ncbi.nlm.nih.gov/22036034/)
