@@ -42,17 +42,6 @@ In case it's unclear, I'm not a doctor and nothing I say is medical advice. I do
   + [My current medical strategy](strategy.md)
 
 
-## Social perspective
-Bipolar complicates social interactions. Some of the difficulty improves with awareness and communication, but some has to do with fundamental conflicts that arise when someone is sufficiently inconsistent.
-
-+ Relationships
-  + [Broadly speaking: the integrity problem](integrity.md)
-  + [Bipolar in marriage](heavy/bipolar-marriage.md)
-+ Work
-  + [Bipolar at work](heavy/bipolar-work.md)
-  + [Emailing my employer: messages I couldn't write when impaired](emails.md)
-
-
 ## Reading (TODO: inline these where appropriate)
 + [Potentiation strategies for treatment-resistant depression](https://pubmed.ncbi.nlm.nih.gov/16307616/)
   + [Lithium augmentation of antidepressants](https://pubmed.ncbi.nlm.nih.gov/9635546/)
