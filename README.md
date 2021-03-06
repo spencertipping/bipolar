@@ -1,10 +1,6 @@
 # Open source bipolar disorder
 **Work in progress**
 
-**TODO:** the narrative tone is coming together, but it still needs work. Particularly on the new sections. I think it sounds uneven or overly critical in some parts.
-
-**TODO:** the time I spend on each issue doesn't reflect importance very well yet.
-
 **TODO:** trim down this intro
 
 Early 2019 Joyce and I figured out that I have bipolar disorder. I probably have for most of my adult life, which was a surprise that kicked off a bunch of research and reflection, not all of which has been straightforward.
@@ -45,7 +41,11 @@ In case it's unclear, I'm not a doctor and nothing I say is medical advice. I do
   + [My current medical strategy](strategy.md)
 
 
-## Reading (TODO: inline these where appropriate)
+## Random reading
+Things I thought were interesting but haven't integrated into the writeup yet.
+
+**TODO:** link these where they belong, or maybe start/keep a random-reading section if it makes sense
+
 + [Potentiation strategies for treatment-resistant depression](https://pubmed.ncbi.nlm.nih.gov/16307616/)
   + [Lithium augmentation of antidepressants](https://pubmed.ncbi.nlm.nih.gov/9635546/)
   + [Thyroid augmentation of antidepressants](https://pubmed.ncbi.nlm.nih.gov/9635545/)
