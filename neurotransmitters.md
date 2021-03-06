@@ -30,7 +30,7 @@ It's often prescribed in much higher doses for bipolar and other disorders; pres
 
 These side effects both went away. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
 
-Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day.
+Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day. I do know that NAC has helped me be much more calm, alert, and energetic.
 
 
 ### Safety of different lithium salts
@@ -40,6 +40,8 @@ Joyce reminded me that I started taking NAC shortly after starting lithium; that
 + [Lithium citrate](https://en.wikipedia.org/wiki/Lithium_citrate): OTC; [citric acid](https://en.wikipedia.org/wiki/Citric_acid) is completely safe, but lithium citrate is expensive and requires refrigeration
 
 I use lithium aspartate because the amount of aspartic acid I get from it is comparable to what's in two or three avocados. I've heard health concerns about avocados on the grounds that they're too calorie-rich or that they turn people into millennials, but never because of aspartate so I assume it's fine.
+
+If aspartate were unavailable, I would use orotate or citrate with no hesitation. My risk profile is much more about avoiding lithium deficiency than it is about any supposed risks associated with orotic acid.
 
 
 ## Methylation: general metabolism and oxidative stress

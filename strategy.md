@@ -11,13 +11,13 @@ There are multiple ways to deal with these problems. I chose supplementation bec
 
 
 ## Current medication routine
-I've been on this since about May/June 2020, so eight months as of this writing. The results have been fantastic. I'm alert, focused, consistently motivated, and low-anxiety almost all the time -- none of which I thought I would ever be able to achieve.
+I've been on this since about May/June 2020, so nine months as of this writing. The results have been fantastic. I'm alert, focused, consistently motivated, and low-anxiety almost all the time -- none of which I thought I would ever be able to achieve.
 
 **TODO:** add brands to supplements in case it's relevant, and disclaim that I'm not endorsing anyone, I just tolerate them
 
 **TODO:** at some point, collect commit logs to quantify the change
 
-Everything I use is available over the counter; I don't use prescription medications or have a primary care physician (or even health insurance because I'm a madman).
+Everything I use is available over the counter; I don't use prescription medications or have a primary care physician (or even health insurance because I'm a madman). See [diy-medicine](diy-medicine.md) for a totally-not-deranged discussion about why I do these things.
 
 + Morning (daily)
   + Neurotransmitter regulation
@@ -58,7 +58,7 @@ Everything I use is available over the counter; I don't use prescription medicat
 
 **Also also note:** there are different formulas for methylfolate. I use Quatrefolic (6S)-5-MTHF, which seems to work, and I haven't tried any other types.
 
-I also usually eat eggs and fish for breakfast, usually four eggs and 4-6oz of tuna or salmon. Dietary choline isn't a problem, although eggs and fish keep me awake if I eat them at night and I can't supplement alpha-GPC, citicholine, or ALA without getting really depressed.
+I also usually eat eggs and fish for breakfast, usually four eggs and 4-6oz of tuna or salmon. Dietary choline isn't a problem, although eggs and fish keep me awake if I eat them at night and I can't supplement alpha-GPC, citicholine, or alpha-lipoic acid without getting really depressed.
 
 I still have minor mood and energy cycling throughout the year, but nothing like before. Sometimes I'll try to course-correct; here are some of the options I'll use (usually a subset, not all of them):
 

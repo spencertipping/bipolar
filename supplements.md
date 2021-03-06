@@ -19,8 +19,6 @@ I tend to think about pharmacokinetics in terms of three questions:
 2. **What's the elimination rate?** Is it zero-order (no half life; alcohol) or first-order (half-life; almost everything else)? What's the area under the curve for a fixed dose of something?
 3. **What happens if overdose occurs?** Is there a rate-limiting conversion enzyme?
 
-**TODO:** be less self-indulgent in my consistent alcohol-bashing
-
 For example, alcohol and theanine:
 
 + [Alcohol (pharmacokinetics)](https://en.wikipedia.org/wiki/Alcohol_(drug)#Pharmacokinetics)

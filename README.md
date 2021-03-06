@@ -9,9 +9,9 @@
 
 Early 2019 Joyce and I figured out that I have bipolar disorder. I probably have for most of my adult life, which was a surprise that kicked off a bunch of research and reflection, not all of which has been straightforward.
 
-I've wanted to write about it ever since the diagnosis, but it's not an easy topic for me to address. The biggest obstacle isn't that I'm unwilling to talk about it; that's actually very easy for me. The hard part is maintaining enough emotional composure to discuss it without sounding like a lunatic. I spend most of my time being an engineer, which means (1) I'm not a great writer; and (2) I usually write about emotionally un-demanding things.
+I've wanted to write about it ever since the diagnosis, but it's not an easy topic for me to address. The biggest obstacle isn't that I'm unwilling to talk about it; that's easy for me. The hard part is maintaining emotional composure while writing about parts of it that I haven't yet fully understood. And I'm always finding those topics on the fringe of what I try to document.
 
-So this whole project is, in that sense, outside my comfort zone. Sorry in advance for the uneven quality.
+So this whole project is, in a big way, outside my comfort zone. Sorry in advance for the uneven quality.
 
 As for why it exists, it's for the same reasons I write open-source software. Whenever I solve a hard problem and learn something, I want to publish the solution so others have more to work with. Different people will solve similar problems in different ways, but if more of those ways are explained then the world is easier to navigate.
 
@@ -32,8 +32,11 @@ In case it's unclear, I'm not a doctor and nothing I say is medical advice. I do
 **TODO:** fix continuity between pages
 
 + Top-line practical issues
-  + [Bipolar in videos](bond-scott.md) (and [longer version with commentary](heavy/deepdive.md))
-  + [Getting over alcoholism](alcohol-substitution.md)
+  + [Bipolar in _The Office_ and James Bond clips](bond-scott.md) (and [longer version with commentary](heavy/deepdive.md)): what different moods look like
+  + [Getting over alcoholism with OTC alternatives](alcohol-substitution.md)
++ Figuring it out
+  + [Signs that something was amiss](early-signs.md)
+  + [Git, open source, and the fateful FFT](git-fft.md)
 + DIY psychiatry
   + [Why I'm DIYing psychiatric care](diy-medicine.md)
   + [Sources and research](sources.md)
