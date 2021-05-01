@@ -27,7 +27,7 @@ This has some important implications, one of which being that two drinks at the 
 ## Common deficiencies in alcoholics
 Alcohol breaks down to acetaldehyde, which is difficult for the body to work with and depletes some important nutrients, many of which are cofactors for neurotransmitters. See [neurotransmitters](neurotransmitters.md) for a more detailed discussion.
 
-Here are some of the things alcohol tends to deplete:
+Here are some of the things alcohol tends to deplete (with duplicates because each refers to a study):
 
 + [Vitamins A, B1, B6, and B9](https://pubmed.ncbi.nlm.nih.gov/3544907/) -- of these, B6 and B9 are critical for neurotransmitter metabolism
 + [Vitamins B6, B9, and B12](https://pubmed.ncbi.nlm.nih.gov/10758367/) -- B6 is critical for neurotransmitter function, and B9 and B12 collectively detoxify homocysteine into methionine (see the methylation section of [neurotransmitters](neurotransmitters.md) for more context)

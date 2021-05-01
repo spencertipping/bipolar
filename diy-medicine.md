@@ -5,17 +5,17 @@ Any type of DIY speculation about things like psychiatry runs the risk of being 
 
 1. Things that work for me may not work for most other people with the same apparent condition (i.e. we may have a different latent condition or genetic disposition)
 2. I have different goals than many people who want to treat psychiatric disorders, particularly around risks
-3. I often deliberately avoid the most effective treatments, as they tend to bypass the most homeostatic regulation mechanisms
+3. I often deliberately avoid the most effective treatments, as they tend to bypass homeostatic regulation mechanisms
 
 
 ## Quality of life vs quality of research
-I have an MTHFR mutation, so a lot of my treatment focuses on preventing homocysteine buildup. This is questionable in medical science; I haven't had any bloodwork done to suggest that I have a problem with homocysteine, nor that my methylation is deficient. I felt much better after taking methylfolate once, and I have a history of relevant risk factors like coffee and alcohol use. But I didn't study this in detail; I use methylfolate because I tried it and it works _for me_ -- then I retroactively speculate about why it might work and see if it makes sense to use long-term. That isn't the scientific method, it's the "ship a fix" method; I'm not a scientist, I'm an engineer.
+I have an MTHFR mutation, so a lot of my treatment focuses on preventing homocysteine buildup. This is questionable in medical science; I haven't had any bloodwork done to suggest that I have a problem with homocysteine, nor that my methylation is deficient. I felt much better after taking methylfolate once, and I have a history of relevant risk factors like coffee and alcohol use. But I didn't study this in detail; I use methylfolate because I tried it and it works _for me_ -- then I retroactively speculate about why it might work and see if it makes sense to use long-term. That isn't the scientific method, it's the "ship a fix" method; for DIY psychiatry I'm not a scientist, I'm an engineer.
 
 
 ## "Safety first" is a conflict of interest (for me)
 Anyone who knows me will be unsurprised that I have a beef.
 
-My expectation is that doctors view me being a potato as better than me being a hyperproductive genius but having a 10% chance of suicide, and I disagree with that assessment. I value my ability to think and at some point I'm willing to roll the dice, probably more than the medical institution would like me to. That's my prerogative because I don't owe life to anyone.
+My expectation is that doctors view me being a non-suicidal potato as better than me being a hyperproductive genius but having a 10% chance of suicide, and I disagree with that assessment. I value my ability to think and at some point I'm willing to roll the dice, probably more than the medical institution would like me to. That's my prerogative because I don't owe life to anyone.
 
 What that means, though, is that I'm not necessarily going to avoid hypomania as assiduously as bipolar medication regimes tend to (despite that being the most effective way to prevent suicide, numerically speaking). In fact, I value hypomania to some extent because it helps me do some of my best work. I'd much rather be able to support consistent hypomania, have some workarounds in place for problem-mania, and avoid depression altogether even though I understand that this probably increases my risk of suicide overall. Quality of life is more important than quantity of life, to me anyway.
 

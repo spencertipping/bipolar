@@ -137,6 +137,10 @@ A lot of psychiatric medications impact these neurotransmitters directly, for in
   + [MAO-B](https://en.wikipedia.org/wiki/Monoamine_oxidase_B), the enzyme that deactivates dopamine and phenethylamine
   + [Monoamine oxidase inhibitor](https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor), antidepressants that work by deactivating MAO enzymes
 
+Note that AADC, the shared decarboxylase enzyme for both dopamine and serotonin, consumes B6 as a cofactor and is built using lysine. I naturally converge towards a high-lysine diet: lots of eggs, lean meat, Greek yogurt, that kind of thing. I'm experimenting with direct lysine supplementation to see if that changes my dietary preferences (I'm probably getting too many calories from protein).
+
+**TODO:** update with lysine supplementation results
+
 
 ## B vitamins: oddly relevant to neurotransmitters
 If I understand this correctly, vitamins A, C, D, E, and K2 have relatively minor roles in the brain to the extent that they apply at all. Some B vitamins, however, are cofactors for all kinds of enzymes directly involved in neurotransmitter production.
@@ -151,10 +155,12 @@ If I understand this correctly, vitamins A, C, D, E, and K2 have relatively mino
     + [B7 (biotin)](https://en.wikipedia.org/wiki/Biotin)
     + B8 does not exist for some reason
   + Neurotransmitter cofactors
-    + [B6 (pyridoxine)](https://en.wikipedia.org/wiki/Vitamin_B6): activates to PLP, which is a cofactor in dopamine, serotonin, epinephrine, norepinephrine, GABA, and histamine; it also does other important stuff (so it's a big deal)
+    + [B6 (pyridoxine)](https://en.wikipedia.org/wiki/Vitamin_B6): activates to PLP, which is an AADC cofactor for dopamine, serotonin, epinephrine, norepinephrine, GABA, and histamine; it also does other important stuff (so it's a big deal)
     + [B9 (folate)](https://en.wikipedia.org/wiki/Folate): works in conjunction with B12 to remethylate homocysteine, related to [neurological disorders](https://en.wikipedia.org/wiki/Folate#Neurological_disorders)
     + B10 and B11 aren't a thing
     + [B12 (cobalamin)](https://en.wikipedia.org/wiki/Vitamin_B12): trades methyl groups with folate during Hcy->Met, and deficiency can be masked by MTHF supplementation
+
+**NOTE:** if you have an MTHFR mutation, folic acid is useless and may be problematic in large quantities. See [MTHFR deficiency](https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase_deficiency#Management) for details. I mention this because folic acid is a source of folate for most people, but MTHFR deficiency prevents it from being activated into the methionine cycle.
 
 Here's another diagram of the methionine cycle, this time from the folate/B12 perspective:
 

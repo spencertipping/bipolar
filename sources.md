@@ -25,7 +25,7 @@ I also don't want to understate how serious the replication crisis is for reliab
 
 > Out of 49 medical studies from 1990–2003 with more than 1000 citations, 45 claimed that the studied therapy was effective. Out of these studies, 16% were contradicted by subsequent studies, 16% had found stronger effects than did subsequent studies, 44% were replicated, and 24% remained largely unchallenged. The US Food and Drug Administration in 1977–1990 found flaws in 10–20% of medical studies. In a paper published in 2012, Glenn Begley, a biotech consultant working at Amgen, and Lee Ellis, at the University of Texas, found that only 11% of 53 pre-clinical cancer studies could be replicated. **The irreproducible studies had a number of features in common, including that studies were not performed by investigators blinded to the experimental versus the control arms, there was a failure to repeat experiments, a lack of positive and negative controls, failure to show all the data, inappropriate use of statistical tests and use of reagents that were not appropriately validated.**
 
-At its core, this is really bad -- but a most of it doesn't apply uniformly (hence the emphasis).
+At its core, this is really bad -- but most of it doesn't apply uniformly (hence the emphasis).
 
 A nontrivial amount of the controversy involves cancer treatments, whose conflict-of-interest profile is pretty different from psychiatric medicine -- especially supplement-based. But it's worth looking out for studies that have questionable features.
 

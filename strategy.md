@@ -11,7 +11,7 @@ There are multiple ways to deal with these problems. I chose supplementation bec
 
 
 ## Current medication routine
-I've been on this since about May/June 2020, so nine months as of this writing. The results have been fantastic. I'm alert, focused, consistently motivated, and low-anxiety almost all the time -- none of which I thought I would ever be able to achieve.
+I've been on this since about May/June 2020, so a year as of this writing. The results have been fantastic. I'm alert, focused, consistently motivated, and low-anxiety almost all the time -- none of which I thought I would ever be able to achieve.
 
 **TODO:** add brands to supplements in case it's relevant, and disclaim that I'm not endorsing anyone, I just tolerate them
 
@@ -38,8 +38,11 @@ Everything I use is available over the counter; I don't use prescription medicat
     + 2400mg long-release NAC
     + 10-20g collagen peptides
     + 1500mg vitamin C
+  + Steroid precursors
+    + 10000IU vitamin D (this is a lot)
+    + 6-8 eggs of cholesterol
   + Thyroid support
-    + 225mcg iodine as potassium iodide
+    + 1000mcg iodine as potassium iodide
 + Evening (daily)
   + 20mg lithium aspartate
   + 3g taurine (as magnesium taurate)
@@ -49,6 +52,12 @@ Everything I use is available over the counter; I don't use prescription medicat
   + 1000mg theanine
 + Weekly
   + Selenium (as selenomethionine, which incidentally requires B6 to absorb)
+
+**TODO:** add creatine (2g/day) and figure out how it relates to MTHFR
+
+**TODO:** mention lysine/arginine balance
+
+**TODO:** zinc/copper?
 
 **TODO:** clean this section up, it's a mess
 
