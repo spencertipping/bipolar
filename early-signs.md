@@ -1,7 +1,7 @@
 # Early signs that something was amiss
 Joyce didn't suggest bipolar disorder in a vacuum. She and many of my employers had tolerated quite a lot of abnormality from me. In hindsight, given the severity of it all, I'm amazed I was never fired or even given a negative performance review. Employers should probably up their game.
 
-You can see a lot of this weirdness in projects and blog posts I wrote a long time ago. Some of the madness was constructive: [caterwaul JS](https://github.com/spencertipping/caterwaul), [ni](https://github.com/spencertipping/ni), [canard](https://github.com/spencertipping/canard), and many years of other similarly ambitious projects all began as manic sprints that changed who I was and what I could do. That's an example of bipolar gone right; had I been more sensible, I probably wouldn't have pushed myself so far out of my comfort zone, nad I'd be less capable now.
+You can see a lot of this weirdness in projects and blog posts I wrote a long time ago. Some of the madness was constructive: [caterwaul JS](https://github.com/spencertipping/caterwaul), [ni](https://github.com/spencertipping/ni), [canard](https://github.com/spencertipping/canard), and many years of other similarly ambitious projects all began as manic sprints that changed who I was and what I could do. That's an example of bipolar gone right; had I been more sensible, I probably wouldn't have pushed myself so far out of my comfort zone, and I'd be less capable now.
 
 I'll mention here that I've never done anything truly awful due to bipolar. If you do much reading on it, you'll find devastating stories about people who left their families behind, had ill-considered affairs, spent through their life savings, committed crimes, or worst, committed suicide. Joyce and I got my life figured out before anything came to that. The worst I've been through is an incompetent suicide attempt, less-than-stellar career performance, and some embarrassing but ultimately harmless social mistakes. I found it hard to respect myself because I had a lot of flaws that felt insurmountable, and I didn't understand how so many other people managed to keep their lives together so consistently.
 
@@ -49,4 +49,24 @@ Broadly speaking, relationships and instability don't mix well for somewhat obvi
 
 The result looks profoundly confusing and hurtful to the sane person in the relationship. I know this because Joyce and I have talked about it at length since. Joyce had every reason to believe that my intermittent indifference was deliberate, or at least indicative of some problem between us. In reality, it was as confusing to me as it was to her: one day I'd wake up feeling like I was living someone else's life with someone else's family (just like if you woke up in a good friend's body and were living their life; maybe you know what you're supposed to do, but it's still not who you are). That sense of otherness never entirely went away; I'd make a conscious choice to re-adopt Joyce and the kids as my family and move forward. I've done this every year or two, so everything has continued to work out.
 
-**TODO:** continue the story
+
+### The April 2020 dissociation
+I woke up on April 27 and everything was different. I didn't feel like myself at all; my mind seemed cluttered and disorganized, sort of like I had been homeless for a month but didn't remember it. I felt like I _should_ be homeless, like that was where I belonged and I didn't understand why I woke up in a home with people around. I knew I was supposed to have a family, of course, and who they were, and how I had gotten there, but it was exactly as disorienting as waking up from your life to find out you had been dreaming; you have a mixture of vague memories and jarring reminders that there's a whole other life you need to attend to.
+
+In my case I wasn't up to it. I emailed my manager and team lead at Seeq that morning to let them know that I was going to be out for an indefinite amount of time, copying Joyce so she could take the lead on further communication.
+
+I was comatose and dissociated for the next six weeks. It wasn't a bad time for me; I didn't care about anything and felt incredibly free. But I also didn't have any constructive ambition; my default plan was to become homeless and live under a bridge. When the plumbing clogged up, Joyce and I stayed with her parents for a month because I was too disengaged to manage any logistics. (Her dad and I drove back for a week and did a bunch of plumbing, electrical, and structural work; I was still checked out but we had a great time.)
+
+I improved slowly over the course of May. Part of that involved realizing that I was depressed, even though this time it didn't come with the usual dysphoria. (There are at least two axes of depression/mania: dysphoria ↔ euphoria, which is what it feels like, and avolition ↔ lack of inhibition, which is how easy it is to do things.)
+
+Towards the end of May Joyce insisted that I try DHEA, which I did and it improved things significantly. I also began taking 10g/day of tyrosine, which helped so much that I've never stopped. I was full of energy throughout June, which was unusual for me. At first I thought it was due to the tyrosine→dopamine pathway, but in hindsight I suspect it was thyroid hormone instead. I seem to have thyroid dysregulation when the seasons change.
+
+
+### Long-term relationships without reliable emotional attachment
+I think bipolar disorder qualifies as a hardware defect for the purposes of long-term relationships -- so how do you work with that? (Pro tip: reducing family life to a business proposition _never works:_ it is a loss-making venture no matter how creatively you do the accounting.)
+
+If you ask most couples why they're together, you tend to hear a mixture of qualities like "smart, kind, funny, good at _x_ thing". These obviously describe a much more specific picture, but like Potter Stewart most people know it when they see it; quantifying compatibility isn't so important. Stable attachment doesn't cause you to question these things very much, or so I tend to assume.
+
+Since I'm starting from a more dismissive-avoidant disposition, stability is consciously engineered at some level. It makes sense to find ways to commit to people you value; I think the main challenge is to ground it out to concrete elements that don't depend on emotional hysteresis.
+
+**TODO:** I'm not sure what I'm trying to explain in this section. I think there's something worth saying, but I'm not sure this is it. Or maybe it's all obvious and I'm overthinking it? Not sure.

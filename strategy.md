@@ -24,42 +24,37 @@ Everything I use is available over the counter; I don't use prescription medicat
     + 20mg lithium as lithium aspartate
     + 96mg magnesium via 1333mg magnesium threonate
   + Anxiolytics
-    + 500mg theanine
+    + 500mg theanine (sometimes)
     + 600mg ashwagandha
   + Stimulants and brain circulation
     + 10-15g tyrosine
     + 12-18g yerba mate tea
-    + 7g ginkgo biloba + 7g bacopa monnieri + 4g gotu kola + 5g mint + 8g ginger root tea (totally ad-hoc thing, see below)
+    + 7g ginkgo biloba + 7g bacopa monnieri + 4g gotu kola + 5g mint + 8g ginger root tea (sometimes, and it's a totally ad-hoc thing, see below)
+    + 1g lysine (a component of the AADC enzyme)
   + Methylation
-    + 15-20mg methylfolate
-    + 2.5-5mg methyl-B12
+    + 15-30mg methylfolate (as (6S)-5-MTHF, called Quatrefolic)
+    + 2.5-5mg methylated B12
     + 400mg riboflavin
+    + 2g creatine
   + Antioxidants and glutathione precursors
     + 2400mg long-release NAC
     + 10-20g collagen peptides
     + 1500mg vitamin C
   + Steroid precursors
-    + 10000IU vitamin D (this is a lot)
-    + 6-8 eggs of cholesterol
+    + 600IU vitamin D
+    + 4-6 eggs + ~100g salmon of cholesterol most mornings
   + Thyroid support
-    + 1000mcg iodine as potassium iodide
+    + The aforementioned tyrosine probably matters here
+    + 1000mcg iodine as potassium iodide, spread throughout the morning
 + Evening (daily)
   + 20mg lithium aspartate
-  + 3g taurine (as magnesium taurate)
+  + 4g taurine + 500mg magnesium (as magnesium taurate)
   + 500-1500mg tryptophan peptides (lower = more energy/clarity next day, higher = longer sleep and more relaxed next day)
   + B-vitamin complex
   + Vitamin E
-  + 1000mg theanine
+  + 500mg theanine
 + Weekly
   + Selenium (as selenomethionine, which incidentally requires B6 to absorb)
-
-**TODO:** add creatine (2g/day) and figure out how it relates to MTHFR
-
-**TODO:** mention lysine/arginine balance
-
-**TODO:** zinc/copper?
-
-**TODO:** clean this section up, it's a mess
 
 **Note:** I suspect some of my dosages are above what's necessary. I've gotten great results, but I haven't tuned any of this for efficiency yet and it's a bit of a work in progress. If you know of things I should improve, please let me know.
 
@@ -102,7 +97,7 @@ Methylation gets a bit more complicated because methionine isn't the only thing 
 
 
 ## How this regimen came about
-**TODO:** there's a whole timeline to this that explains some of the trial and error
+The first thing was theanine, which led to a false sense of security about mental stability.
 
 
 ### The woo-woo gingko herbal tea stuff

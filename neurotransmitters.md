@@ -139,7 +139,27 @@ A lot of psychiatric medications impact these neurotransmitters directly, for in
 
 Note that AADC, the shared decarboxylase enzyme for both dopamine and serotonin, consumes B6 as a cofactor and is built using lysine. I naturally converge towards a high-lysine diet: lots of eggs, lean meat, Greek yogurt, that kind of thing. I'm experimenting with direct lysine supplementation to see if that changes my dietary preferences (I'm probably getting too many calories from protein).
 
-**TODO:** update with lysine supplementation results
+**Minor update:** I'm back to eggs + salmon + pepperjack for breakfast, from eggs + peas before. Definitely gravitating towards high-lysine stuff, though now I wonder whether the causation goes the other way: high protein → high lysine demand. No idea. That's with 1-2g of lysine HCl daily.
+
+**TODO:** update with more lysine supplementation results
+
+
+## Secosteroids
+There's a body of research on a potential connection between bipolar disorder and sex hormone dysregulation. I don't have symptoms of low testosterone when euthymic, or in general, but I do when depressed. Here's some reading about this that I've found so far:
+
++ [Low testosterone in bipolar men](https://pubmed.ncbi.nlm.nih.gov/27703738/)
++ [Statistically insignificant testosterone fluctuation within bipolar I](https://pubmed.ncbi.nlm.nih.gov/29887899/)
++ [SSRIs may increase testosterone in both women and men](https://pubmed.ncbi.nlm.nih.gov/22325700/)
+
+This is what led me to try DHEA as an acute antidepressant, which seemed to work well.
+
++ [Steroid](https://en.wikipedia.org/wiki/Steroid)
+  + [Secosteroid](https://en.wikipedia.org/wiki/Secosteroid)
+    + [Vitamin D](https://en.wikipedia.org/wiki/Vitamin_D)
+  + [Cholesterol](https://en.wikipedia.org/wiki/Cholesterol)
+  + [Neurosteroid](https://en.wikipedia.org/wiki/Neurosteroid)
+    + Of note, this class of chemicals includes many GABA-A positive and negative allosteric modulators
+    + [DHEA](https://en.wikipedia.org/wiki/Dehydroepiandrosterone)
 
 
 ## B vitamins: oddly relevant to neurotransmitters
