@@ -47,6 +47,8 @@ Bipolar is often described in terms of depressive, hypomanic, and manic states. 
 ## Enzymes and neurotransmitters
 As an engineer, I wasn't going to be living in a defective body without trying to fix stuff. Broken hardware is just an opportunity to figure out how it works and make it work better than it was designed to.
 
+(By the way, I write this up like it was deliberate, linear process where I knew what I was doing. It wasn't. Joyce and I fumbled our way through all of this.)
+
 The first step was to stop trying to commit suicide so much. The biggest problem there was alcoholism:
 
 + [Getting over alcoholism with OTC alternatives](alcohol-substitution.md)
@@ -81,7 +83,7 @@ A few other notable changes:
 + I can write balanced prose now. Everything before wound up being a polemic by the time I was motivated enough to publish it, but now there's like nuance and stuff.
 + I don't have self-destructive habits like alcoholism, and I don't miss them. Upregulating GABA was better done by addressing nutritional deficiencies.
 + Because I'm biohacking all the time, I can modify stuff. On days when I do consulting work I increase tryptophan and decrease choline to be more sociable. Working solo is the opposite; I want to be more driven and intense.
-+ I am never anxious anymore. It's awesome.
++ I am never anxious anymore unless I've got a minor infection, which isn't very often. This is awesome.
 
 I'm also collecting a very detailed profile of quantification data to monitor for further optimization down the line. I have a repo I'm going to publish soon that explains that project in the context of behavior and addiction management; I'll link it here when it's ready. Stay tuned.
 
