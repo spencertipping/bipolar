@@ -85,7 +85,7 @@ A few other notable changes:
 + I can write balanced prose now. Everything before wound up being a polemic by the time I was motivated enough to publish it, but now there's like nuance and stuff.
 + I don't have self-destructive habits like alcoholism, and I don't miss them. Upregulating GABA was better done by addressing nutritional deficiencies.
 + Because I'm biohacking all the time, I can modify stuff. On days when I do consulting work I increase tryptophan and decrease choline to be more sociable. Working solo is the opposite; I want to be more driven and intense.
-+ I am never anxious anymore unless I've got a minor infection, which isn't very often. This is awesome.
++ I am never anxious anymore unless I've got a virus/infection/bug, which isn't very often. This is awesome.
 
 I'm also collecting a very detailed profile of quantification data to monitor for further optimization down the line. I have a repo I'm going to publish soon that explains that project in the context of behavior and addiction management; I'll link it here when it's ready. Stay tuned.
 
