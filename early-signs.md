@@ -19,7 +19,7 @@ This must have been maddening to people. From my perspective, I couldn't underst
 
 There was a perverse upside to this work habit. During downtime when effort was expensive and I didn't care about anything, I'd slowly learn about a problem domain so I'd later be able to compress a whole project into a three-week burst of energy. I always found it much easier to _think_ than to _do_ when depressed. As a result, I know a lot of ways to execute projects quickly and I tend to know (and often write) tools that make me more efficient.
 
-Bipolar often has this morally ambiguous quality, which is one reason it's complicated to write about. I'm hardly an apologist for mental illness, but I also want to look on the bright side and recognize that I'm a better person in some ways than I'd be otherwise; and in a world that increasingly values exceptionalism, or at least eccentricity, I suspect a neuroatypical disposition might wind up being a net positive (provided that medication is available to deal with the downsides).
+Bipolar often has this morally ambiguous quality, which is one reason it's complicated to write about. I'm hardly an apologist for mental illness, but I also want to look on the bright side and recognize that I'm a better person in some ways than I'd be otherwise; and in a world that increasingly values exceptionalism, or at least eccentricity, I suspect a neuro-atypical disposition might wind up being a net positive (provided that medication is available to deal with the downsides).
 
 
 ### Professional composure
