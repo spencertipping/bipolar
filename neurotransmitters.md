@@ -118,6 +118,8 @@ A lot of psychiatric medications impact these neurotransmitters directly, for in
 
 **Note:** [Choline](https://en.wikipedia.org/wiki/Choline), or more precisely [acetylcholine](https://en.wikipedia.org/wiki/Acetylcholine), is a big deal as neurotransmitters go. I've tried supplementing it a few times and always got super depressed, so I don't know how it plays into bipolar disorder. It also isn't a monoamine so it isn't in the list here. But it should be on your mind if you're studying neurotransmitters and how to change them, I just don't know much about it beyond that.
 
+**Update:** I can now take CDP choline without getting depressed at all. I get a bit more grim/focused, but not dysphoric. Not sure what changed, but it's possible it had to do with getting tyrosine→dopamine working correctly first? (**TODO:** link in the diagram Joyce found about the relationship between CDP, phosphatidylcholine, and GPC)
+
 + [Monoamines](https://en.wikipedia.org/wiki/Monoamine_neurotransmitter)
   + [Dopamine](https://en.wikipedia.org/wiki/Dopamine): motivational salience
     + [Phenylalanine](https://en.wikipedia.org/wiki/Phenylalanine), essential amino acid
