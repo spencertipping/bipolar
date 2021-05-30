@@ -7,6 +7,8 @@ Beyond catharsis, I decided to publish my experience because there aren't many p
 
 So let me know what you think about all this. I hope it's useful.
 
++ [Notes about the making of this project](making-of.md)
+
 **Work in progress**
 
 
