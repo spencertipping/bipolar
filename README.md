@@ -13,7 +13,7 @@ So let me know what you think about all this. I hope it's useful.
 
 
 ## Top-line issues
-**If you're contemplating suicide or having an affair or other terrible decisions and don't have anyone to talk to, or don't want to talk to the people you do have, and you've heard that suicide hotlines are awful, which I've also heard but never verified:** email me and I'll reply. You can also join [https://dev.spencertipping.com](https://dev.spencertipping.com), which I'm happy to see expand into a forum for discussing mental illness. You wouldn't be the first person I've talked to for hours when they were considering suicide, and as someone who's considered it many times (and lost my mom to it) I have opinions about when it does and doesn't make sense.
+**If you're contemplating suicide or having an affair or other terrible decisions and don't have anyone to talk to, or don't want to talk to the people you do have, and you've heard that suicide hotlines are awful, which I've also heard but never verified:** email me and I'll reply. You can also join [https://dev.spencertipping.com](https://dev.spencertipping.com), which has a [#bipolar channel](https://dev.spencertipping.com/channel/bipolar) where atypical states of mind are the norm. You wouldn't be the first person I've talked to for hours when they were considering suicide, and as someone who's considered it many times (and lost my mom to it) I have opinions about when it does and doesn't make sense. [Here's where I stand on suicide prevention if you're curious, and also why I think police should never be involved in mental illness even if they sometimes save lives.](making-of.md#code-switching-and-suicide-prevention)
 
 **If you are using alcohol as a medication:** I did this too, it's very dangerous, and there are safer and more fun alternatives that don't result in hangovers or long-term brain damage. [I have a whole page about this.](alcohol-substitution.md)
 
@@ -84,6 +84,7 @@ A few other notable changes:
 
 + I perceive small positive things with much more fidelity: a sunny breeze, birds, that kind of thing. Elevated homocysteine had made all of this go away. I had forgotten how much I missed it.
 + I'm in a good mood basically every day -- like 95% of the time. I wake up and can count on feeling level and productive. And it's not depressed-productive, it's nearly-hypomanic-productive. Compared to before it's unreal.
++ I used to consider suicide every week or two; now I haven't thought about it in over a year.
 + I can write balanced prose now. Everything before wound up being a polemic by the time I was motivated enough to publish it, but now there's like nuance and stuff.
 + I don't have self-destructive habits like alcoholism, and I don't miss them. Upregulating GABA was better done by addressing nutritional deficiencies.
 + Because I'm biohacking all the time, I can modify stuff. On days when I do consulting work I increase tryptophan and decrease choline to be more sociable. Working solo is the opposite; I want to be more driven and intense.
