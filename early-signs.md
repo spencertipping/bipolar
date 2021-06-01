@@ -38,6 +38,12 @@ After the Google post went viral I wanted to delete it, but didn't because I did
 I plan to go back and annotate those posts with some type of disclaimer about my state of mind at the time, knowing what I know now. Not that it makes much difference anymore, but I want to straighten out my end of the record by disclosing my narrative unreliability.
 
 
+## Costa Rica moments
+My life has never been that difficult from a logistical perspective, but every so often I would get very depressive, confine myself to my office, and make plans to buy a one-way plane ticket to some South American country, usually Costa Rica, and start a new, uncomplicated life there. I didn't want to face the world around me anymore. I wanted to be alone, working remotely from a small apartment, and have no demands placed on me.
+
+**TODO:** finish the story
+
+
 ## Bipolar in marriage
 ...and probably relationships more broadly, but I've been married for 14 years so I'll address marriage.
 
