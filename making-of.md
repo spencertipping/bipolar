@@ -30,6 +30,8 @@ The other group is people who are close to someone with mental illness and don't
 ## Code switching and suicide prevention
 This is all speculation from my experience, so although I complain about the mecial institution, it's worth noting that I'm not their entire target audience.
 
+**TODO:** fix this. It's too harsh and it's misdirected. I think there's something to be said about the failings of suicide prevention efforts, but I want to take a fairer perspective.
+
 Medical people are like the police in that they can come across as tone-deaf authoritarians with delusions of relevance. Suicide is a way to opt out of the orthodoxy they promote: they calmly tell you to call a hotline when you're mixed-manic, shaking from adrenaline, and drinking your way into your own wake. I'd rather go for a recreational root canal than receive impotent platitudes and a lecture on my errant ways, possibly punctuated by a visit from [America's friendliest home invaders](https://en.wikipedia.org/wiki/Law_enforcement_in_the_United_States).
 
 (Full disclosure: I don't know what happens when you call a suicide hotline, beyond knowing that they will call the police in some cases. I've heard [mixed](https://www.quora.com/Why-are-suicide-hotlines-so-terrible?share=1) [reports](https://www.reddit.com/r/unpopularopinion/comments/gq47r4/the_usa_suicide_hotline_is_terrible_and_shouldnt/) from people who have. I haven't been to the dentist in 20 years, so I sure as shit am not gonna risk calling a random, under-trained volunteer in a [Peter-principle](https://en.wikipedia.org/wiki/Peter_principle) bureaucracy when I'm emotionally fragile and wanting to snuff it. That's just common sense, right?)
