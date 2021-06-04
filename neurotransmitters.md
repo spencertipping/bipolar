@@ -47,6 +47,8 @@ If aspartate were unavailable, I would use orotate or citrate with no hesitation
 ## Methylation: general metabolism and oxidative stress
 **I highly recommend finding your MTHFR status.** You can find this out using a home DNA sequencing service like 23AndMe.
 
+**TODO:** the CBS enzyme rate-limits the Hcy transsulfuration pathway. It's worth a mention here, as it's more decisive than MTHFR for many people (and this may be why Hcy, not C677T, was the predictive factor in the heroin dependence study).
+
 MTHFR mutations are relatively common (~1% in sub-saharan Africans, ~10% in caucasians, ~20% in Italians and Hispanics) and linked to a number of mental illnesses including schizophrenia, depression, and autism.
 
 MTHFR is the subject of a lot of internet speculation right now, not all of which is valid because the internet is a dumpster fire. [Here's an article](https://www.psychologytoday.com/us/blog/holistic-psychiatry/201711/mthfr-methylation-and-histamine-in-psychiatric-conditions) cautioning against assuming too much and going through some characteristic symptoms of over- and under-methylation.
