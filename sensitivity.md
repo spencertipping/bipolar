@@ -1,6 +1,8 @@
 # Sensitivity and mental illness
 **Heads up:** I run through a large list of things, mostly vices, that mentally ill people think about. They're just mentions, but if that's a problem for you then you should skip this page.
 
+**TODO:** This page is probably worse than I thought it was when I wrote it. I need to go back and review it, then probably do a fair amount of rewriting. These early passes are usually pretty bad.
+
 **TL;DR:** I'm a lot more worried about offending normal people than I am about normal people offending me, and I suspect that's true for many types of neurological disorders, particularly those involving mania.
 
 **Work in progress:** I think this captures most of it, but it's possible I can say it better. Let me know what you think.

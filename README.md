@@ -9,7 +9,7 @@ So let me know what you think about all this. I hope it's useful.
 
 + [Notes about the making of this project](making-of.md)
 
-**Work in progress**
+**Work in progress:** this is a challenging project because I'm experimenting with different ways to socialize something that isn't often talked about. It's important to me to finish writing it all up, but I have to step back a lot to keep the scope contained and attend to other projects (closed-source, hence the lack of other visible Github stuff). So for now this repo is an uneven collection of notes whose quality leaves a lot to be desired. It will get better, though. If you have suggestions I'd love to hear them.
 
 
 ## Top-line issues

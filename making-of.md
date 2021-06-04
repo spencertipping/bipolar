@@ -1,6 +1,8 @@
 # The making of the bipolar writeup
 **Heads up:** this page has a brief description of some mindsets that lead to suicidal behavior.
 
+**TODO:** I suspect this page is worse than I thought it was when I wrote it. I plan to re-outline and rewrite when I have time. These early passes are usually pretty bad.
+
 Writing this was a wild ride. The goal was always to end up with a detailed postmortem, but I'm not really done medicating bipolar and probably never will be. How do you analyze a project that's still under way?
 
 I guess you just write about it and rewrite when things change. That's what I did anyway. For every word that ended up in this repo, I probably wrote and then deleted ten more in prior revisions and attempts. This isn't the first repo, either: it's the seventh.
