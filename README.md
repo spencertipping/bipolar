@@ -19,8 +19,6 @@ So let me know what you think about all this. I hope it's useful.
 
 **If you're using heroin as medication:** I haven't done this, but there is evidence that links heroin dependence to MTHFR enzyme impairments and elevated homocysteine ([source](https://www.omicsonline.org/open-access-pdfs/methylene-tetra-hydrofolate-reductase-c677t-gene-polymorphism-in-heroin-dependence-2155-6105-1000226.pdf)), both of which can be addressed with over-the-counter methylfolate and methylated B12. I have the C677T mutation and it caused substantial depression before I started taking activated folate. See the methylation section on the [neurotransmitters page](neurotransmitters.md) for an explanation of why this happens.
 
-**If a friend has told you they have bipolar and you're wondering what this means about interactions with them going forwards:** I have [a whole page about my take on this.](sensitivity.md)
-
 Most of this repo isn't about being opinionated or offering specific advice, but those are a few topics where I think the right answer is obvious enough that I don't mind offering an opinion. I remember being mentally impaired enough that having someone state these things directly would have been helpful.
 
 
