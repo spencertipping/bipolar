@@ -19,6 +19,8 @@ So let me know what you think about all this. I hope it's useful.
 
 **If you're using heroin as medication:** I haven't done this, but there is evidence that links heroin dependence to MTHFR enzyme impairments and elevated homocysteine ([source](https://www.omicsonline.org/open-access-pdfs/methylene-tetra-hydrofolate-reductase-c677t-gene-polymorphism-in-heroin-dependence-2155-6105-1000226.pdf)), both of which can be addressed with over-the-counter methylfolate and methylated B12. I have the C677T mutation and it caused substantial depression before I started taking activated folate. See the methylation section on the [neurotransmitters page](neurotransmitters.md) for an explanation of why this happens.
 
+**If you're mentally unstable and need lithium, but want precise control over the dosing and supply chain:** you can get low-dose lithium supplements over the counter from high-quality suppliers. If you ever consider suicide, suffer from severe OCD, or want to improve focus+stability, I highly recommend trying lithium microdosing (I do 40mg/day; many people would probably benefit from 5-10mg/day). I have a [section on this on the neurotransmitters page](neurotransmitters.md#Lithium-trace-mineral-for-neurotransmitter-regulation) that goes through some studies and explains why it's perfectly safe to take lithium in these quantities.
+
 Most of this repo isn't about being opinionated or offering specific advice, but those are a few topics where I think the right answer is obvious enough that I don't mind offering an opinion. I remember being mentally impaired enough that having someone state these things directly would have been helpful.
 
 

@@ -15,9 +15,9 @@ If you don't have time to read everything, here's (in my opinion) the most impor
 
 
 ## Lithium: trace mineral for neurotransmitter regulation
-I have an ax to grind here: I really think lithium is an essential trace mineral, and I think people take humongous amounts for psychiatric disorders and suffer through major side effects when smaller amounts would get a lot of the benefit. I'm not alone in suspecting these things; a number of studies have come out in support of this view ([like this one](https://pubmed.ncbi.nlm.nih.gov/30605431/)).
+I have an ax to grind here: I really think lithium is an essential trace mineral, and I think people take humongous amounts for psychiatric disorders and suffer through major side effects when smaller amounts would get a lot of the benefit and none of the problems. I'm not alone in suspecting these things; a number of studies have come out in support of this view ([like this one](https://pubmed.ncbi.nlm.nih.gov/30605431/)).
 
-Due to its unfortunate history lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects (although there were some short-term ones when I started; see below). I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater.
+Due to its unfortunate history lithium has a far worse reputation than I think it deserves, especially in small quantities. I take 40mg/day to think more clearly and have no side effects (although there were some short-term ones when I started; see below). I suspect most people would benefit from 5mg/day, which is on the high side of what you might encounter in groundwater. These levels are completely safe for long-term use; none of the documented side effects kick in until you're at 30-100x this amount.
 
 It's often prescribed in much higher doses for bipolar and other disorders; prescriptions range anywhere from 900mg-1800mg/day of lithium carbonate (~150mg-300mg of elemental lithium, if I remember right). This is why it causes problems for people. I haven't found any documented risks related to microdosing, and several articles have suggested it's neuroprotective.
 
@@ -28,12 +28,12 @@ It's often prescribed in much higher doses for bipolar and other disorders; pres
 
 **Note about initial side effects:** I got very absent-minded for a couple of weeks when I started on even a small amount of lithium (2mg/day). I also felt nauseous for about 30min after each dose.
 
-These side effects both went away. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
+These side effects both went away in a week or two. The absent-mindedness turned out to be the feature, not a bug: I had grown accustomed to keeping track of thoughts by obsession, not by habit. Lithium prevented ideas from lingering if I wasn't thinking about them. I had to get used to this and learned to actively remember things. Now it's awesome and I would never go back: I'm much more deliberate and focused, and I never have nagging or obsessive thoughts.
 
 Joyce reminded me that I started taking NAC shortly after starting lithium; that made a big difference. I don't know why this would be the case (glutathione deficiency maybe?), but apparently I was about to quit after the first week because I was unproductive and NAC saved the day. I do know that NAC has helped me be much more calm, alert, and energetic.
 
 
-### Safety of different lithium salts
+### Relative safety of different lithium salts
 + [Lithium carbonate](https://en.wikipedia.org/wiki/Lithium_carbonate): controlled substance, widely studied and considered to be safe
 + [Lithium aspartate](https://en.wikipedia.org/wiki/Lithium_aspartate): OTC; [aspartic acid](https://en.wikipedia.org/wiki/Aspartic_acid) has been studied extensively and is considered reasonably safe, but not lithium aspartate specifically
 + [Lithium orotate](https://en.wikipedia.org/wiki/Lithium_orotate): OTC; [orotic acid](https://en.wikipedia.org/wiki/Orotic_acid) may be related to urea cycle pathologies, but hasn't been thoroughly studied
@@ -145,7 +145,9 @@ Note that AADC, the shared decarboxylase enzyme for both dopamine and serotonin,
 
 **Minor update:** I'm back to eggs + salmon + pepperjack for breakfast, from eggs + peas before. Definitely gravitating towards high-lysine stuff, though now I wonder whether the causation goes the other way: high protein → high lysine demand. No idea. That's with 1-2g of lysine HCl daily.
 
-**TODO:** update with more lysine supplementation results
+**Further update:** lysine was a red herring. I gravitated towards a high-protein diet because my glycolysis wasn't functioning well, so I was breaking down amino acids for energy (possibly using the acetyl groups from NAC for Krebs cycle?). This is a problem because it produces ammonia. I've increased B1, B5, B6, and zinc and rearranged macros so I get most of my calories from simple carbohydrates. This seems to be working so far.
+
+**TODO:** a more detailed postmortem on glycolysis optimization
 
 
 ## Secosteroids
