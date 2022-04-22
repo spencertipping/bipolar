@@ -20,6 +20,8 @@ Conceptually, I model the process in layers:
 
 Now when iterating, I'll make sure (1) is working properly before going to (2), then (3), then (4). Usually if I do anything else, I'll wind up getting depressive due to a deficiency and have to take some downtime to recharge.
 
+Interestingly, almost all of what I'm taking is nutritional, not psychoactive. That is, it's stuff you get from food and environment normally. This makes me suspect that my problems are due to very different RDAs of normal things -- i.e. I get bipolar symptoms from malnutrition (some of which is lithium deficiency) more than due to any intrinsic brain malfunction. Although I have no data or expertise to back this up, I suspect many people are in the same boat and, like me before 2020, don't realize it.
+
 
 ## Current medication routine
 I've been on some variant of this since about May/June 2020, so a year as of this writing. The results have been fantastic. I'm alert, focused, consistently motivated, and low-anxiety almost all the time -- none of which I thought I would ever be able to achieve. Also I can exercise, woohoo!!!
