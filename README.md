@@ -12,16 +12,20 @@ So let me know what you think about all this. I hope it's useful.
 **Work in progress:** this is a challenging project because I'm experimenting with different ways to socialize something that isn't often talked about. It's important to me to finish writing it all up, but I have to step back a lot to keep the scope contained and attend to other projects (closed-source, hence the lack of other visible Github stuff). So for now this repo is an uneven collection of notes whose quality leaves a lot to be desired. It will get better, though. If you have suggestions I'd love to hear them.
 
 
+## I'm not a doctor
+And nothing here is medical advice. I'm documenting my thoughts here for informational purposes.
+
+
 ## Top-line issues
 **If you're contemplating suicide or having an affair or other terrible decisions and don't have anyone to talk to, or don't want to talk to the people you do have, and you've heard that suicide hotlines are awful, which I've also heard but never verified:** email me and I'll reply. You can also join [https://dev.spencertipping.com](https://dev.spencertipping.com), which has a [#bipolar channel](https://dev.spencertipping.com/channel/bipolar) where atypical states of mind are the norm. You wouldn't be the first person I've talked to for hours when they were considering suicide, and as someone who's considered it many times (and lost my mom to it) I have opinions about when it does and doesn't make sense. [Here's where I stand on suicide prevention if you're curious, and also why I think police should never be involved in mental illness even if they sometimes save lives.](making-of.md#code-switching-and-suicide-prevention)
 
 **If you are using alcohol as a medication:** I did this too, it's very dangerous, and there are safer and more fun alternatives that don't result in hangovers or long-term brain damage. [I have a whole page about this.](alcohol-substitution.md)
 
-**If you're using heroin as medication:** I haven't done this, but there is evidence that links heroin dependence to MTHFR enzyme impairments and elevated homocysteine ([source](https://www.omicsonline.org/open-access-pdfs/methylene-tetra-hydrofolate-reductase-c677t-gene-polymorphism-in-heroin-dependence-2155-6105-1000226.pdf)), both of which can be addressed with over-the-counter methylfolate and methylated B12. I have the C677T mutation and it caused substantial depression before I started taking activated folate. See the methylation section on the [neurotransmitters page](neurotransmitters.md) for an explanation of why this happens.
+**If you're using heroin as medication:** I haven't done this, but there is evidence that links heroin dependence to MTHFR/CBS enzyme impairments and elevated homocysteine ([source](https://www.omicsonline.org/open-access-pdfs/methylene-tetra-hydrofolate-reductase-c677t-gene-polymorphism-in-heroin-dependence-2155-6105-1000226.pdf)), both of which can be addressed with over-the-counter methylfolate and methylated B12. I have the MTHFR C677T mutation and it caused substantial depression+anxiety before I started taking activated folate. See the methylation section on the [neurotransmitters page](neurotransmitters.md) for an explanation of why this happens.
 
 **If you're mentally unstable and need lithium, but want precise control over the dosing and supply chain:** you can get low-dose lithium supplements over the counter from high-quality suppliers. If you ever consider suicide, suffer from severe OCD, or want to improve focus+stability, I highly recommend trying lithium microdosing (I do 40mg/day; many people would probably benefit from 5-10mg/day). I have a [section on this on the neurotransmitters page](neurotransmitters.md#Lithium-trace-mineral-for-neurotransmitter-regulation) that goes through some studies and explains why it's perfectly safe to take lithium in these quantities.
 
-Most of this repo isn't about being opinionated or offering specific advice, but those are a few topics where I think the right answer is obvious enough that I don't mind offering an opinion. I remember being mentally impaired enough that having someone state these things directly would have been helpful.
+**TODO:** add a section about top-line physiological stressors like homocysteine, the enzymes that regulate them, and things you can do to modify them
 
 
 ## The diagnosis problem
@@ -46,6 +50,7 @@ Bipolar is often described in terms of depressive, hypomanic, and manic states. 
 
 + [Bipolar in _The Office_ and James Bond clips](bond-scott.md)
 + [Same clips with more detailed commentary](heavy/deepdive.md)
++ [Young Mania Rating Scale](https://dcf.psychiatry.ufl.edu/files/2011/05/Young-Mania-Rating-Scale-Measure-with-background.pdf)
 
 
 ## Enzymes and neurotransmitters
@@ -98,6 +103,7 @@ Things I thought were interesting but haven't integrated into the writeup yet.
 
 **TODO:** link these where they belong, or maybe start/keep a random-reading section if it makes sense
 
++ [Bipolar disorder and immune dysfunction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5704151/)
 + [Potentiation strategies for treatment-resistant depression](https://pubmed.ncbi.nlm.nih.gov/16307616/)
   + [Lithium augmentation of antidepressants](https://pubmed.ncbi.nlm.nih.gov/9635546/)
   + [Thyroid augmentation of antidepressants](https://pubmed.ncbi.nlm.nih.gov/9635545/)
