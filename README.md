@@ -1,4 +1,16 @@
 # Open source bipolar disorder
+Some updates as of September 2024:
+
+1. This repo is no longer factually true, e.g. my medications have since changed. Allergies and immune activity played a big role in my problems, both of which have since been addressed by moving to California.
+2. The perspective behind this repo was true when I wrote it, but I've changed since and wouldn't write it this way today. I'm thinking about writing another one, more retrospective in nature and from a more grounded point of view.
+3. I'm keeping the repo preserved as it was written because it accurately captures the frame of mind I was in when I began realizing what sanity was (against the backdrop of insanity).
+4. **GPT4o is great at this stuff.** Medical exploration, physiology, everything. I use it all the time now.
+5. D-ribose has been great for recovery post-illness.
+
+Maybe more updates later, but I think they'll be in the form of a new repo focused on the "life rebuild" problem that comes after 20 years of impaired decision-making. This repo is probably EOL, frozen in its current off-kilter state. Seems like a fitting end for the project.
+
+
+## Original intro section
 A pretty candid account of my experience with bipolar disorder: figuring out that it was a thing, managing it quasi-medically, reinterpreting past events with new context, and finding ways to socialize what mental illness is about and how to work with it. I sometimes generalize from my own experience in this writeup, and you should understand that to be speculation on my part. This story ends well.
 
 I was on the fence about writing it up this way. You can see this especially in older revisions, but I'm still conflicted about parts of my own bipolar disorder despite knowing about it since 2019 and successfully medicating since late 2020. I'm also not used to putting my personal life on the internet as much as this repo does. There's a big difference between "[here's a cool project made from recycled garbage](https://github.com/spencertipping/www/blob/master/desk.md)" and "[here's the garbage I gave my wife and my coworkers for years and still regret](early-signs.md)". Those mistakes are worth owning but that doesn't make them easy to revisit; I sucked then, so why do I expect not to suck now or in the future? (And is medication the only reason? If so, what does that say about having integrity?)
@@ -17,8 +29,6 @@ And nothing here is medical advice. I'm documenting my thoughts here for informa
 
 
 ## Top-line issues
-**If you're contemplating suicide or having an affair or other terrible decisions and don't have anyone to talk to, or don't want to talk to the people you do have, and you've heard that suicide hotlines are awful, which I've also heard but never verified:** email me and I'll reply. You can also join [https://dev.spencertipping.com](https://dev.spencertipping.com), which has a [#bipolar channel](https://dev.spencertipping.com/channel/bipolar) where atypical states of mind are the norm. You wouldn't be the first person I've talked to for hours when they were considering suicide, and as someone who's considered it many times (and lost my mom to it) I have opinions about when it does and doesn't make sense. [Here's where I stand on suicide prevention if you're curious, and also why I think police should never be involved in mental illness even if they sometimes save lives.](making-of.md#code-switching-and-suicide-prevention)
-
 **If you are using alcohol as a medication:** I did this too, it's very dangerous, and there are safer and more fun alternatives that don't result in hangovers or long-term brain damage. [I have a whole page about this.](alcohol-substitution.md)
 
 **If you're using heroin as medication:** I haven't done this, but there is evidence that links heroin dependence to MTHFR/CBS enzyme impairments and elevated homocysteine ([source](https://www.omicsonline.org/open-access-pdfs/methylene-tetra-hydrofolate-reductase-c677t-gene-polymorphism-in-heroin-dependence-2155-6105-1000226.pdf)), both of which can be addressed with over-the-counter methylfolate and methylated B12. I have the MTHFR C677T mutation and it caused substantial depression+anxiety before I started taking activated folate. See the methylation section on the [neurotransmitters page](neurotransmitters.md) for an explanation of why this happens.
